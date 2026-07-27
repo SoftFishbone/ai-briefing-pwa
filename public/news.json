@@ -1,53 +1,365 @@
 {
-  "updatedAt": "2026-07-26T08:00:00+08:00",
+  "updatedAt": "2026-07-27T06:19:25.617Z",
   "items": [
     {
-      "id": "demo-agent-workflows",
-      "title": "AI Agent 正从聊天工具走向可执行工作流",
-      "source": "行业观察",
-      "publishedAt": "2026-07-26T07:40:00+08:00",
-      "category": "产品",
+      "id": "MIT Technology Review--fqjlfq",
+      "title": "The quest to keep organs alive outside the body",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "category": "行业",
       "region": "全球",
-      "summary": "越来越多产品开始让模型调用工具、完成多步骤任务，并把结果交付给真实用户。",
-      "whyItMatters": "对学生来说，重点不只是会使用模型，而是理解任务拆解、工具调用和结果验证。",
-      "keywords": ["Agent", "工具调用", "工作流"],
-      "url": "https://example.com/ai-agent-workflows"
+      "summary": "The quest to keep organs alive outside the body。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
     },
     {
-      "id": "demo-open-source",
-      "title": "开源模型继续把 AI 能力带到更多个人设备",
-      "source": "开源社区",
-      "publishedAt": "2026-07-25T21:10:00+08:00",
+      "id": "MIT Technology Review-u77efp",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "source": "MIT Technology Review",
+      "publishedAt": "Fri, 24 Jul 2026 12:10:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "The Download: an organ transplant breakthrough, and homegrown Chinese chips。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+    },
+    {
+      "id": "MIT Technology Review-ckun5p",
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
+    },
+    {
+      "id": "MIT Technology Review-6b2c3d",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 23 Jul 2026 12:10:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "The Download: energy transmission and US threats against Chinese AI。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
+    },
+    {
+      "id": "MIT Technology Review--mvnn8z",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "How AI helps scientists design the next generation of medicines。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+    },
+    {
+      "id": "MIT Technology Review-ce36nc",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "source": "MIT Technology Review",
+      "publishedAt": "Thu, 23 Jul 2026 09:00:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "The power line that could reshape New York’s grid is hitting snags。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/"
+    },
+    {
+      "id": "Hugging Face--3tmbb7",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "source": "Hugging Face",
+      "publishedAt": "Thu, 23 Jul 2026 00:00:00 GMT",
       "category": "开源",
       "region": "全球",
-      "summary": "更小、更易部署的模型让本地运行、端侧推理和个人数据处理成为更现实的选择。",
-      "whyItMatters": "本地模型会改变应用开发方式，也让模型部署和性能优化成为值得补上的技能。",
-      "keywords": ["开源模型", "端侧 AI", "推理"],
-      "url": "https://example.com/open-source-models"
+      "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/nunchaku-diffusers"
     },
     {
-      "id": "demo-ai-coding",
-      "title": "AI 编程工具开始从补全代码转向协助完成项目",
-      "source": "开发者工具",
-      "publishedAt": "2026-07-25T16:30:00+08:00",
-      "category": "工具",
-      "region": "国内",
-      "summary": "新一代开发工具更强调理解代码库、修改多个文件和运行验证流程。",
-      "whyItMatters": "未来的竞争力会更多来自问题定义、代码审查和产品判断，而不只是打字速度。",
-      "keywords": ["AI 编程", "代码审查", "软件工程"],
-      "url": "https://example.com/ai-coding"
+      "id": "Google AI Blog-xuqtmv",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "source": "Google AI Blog",
+      "publishedAt": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "category": "产品",
+      "region": "全球",
+      "summary": "3 Google updates from Galaxy Unpacked 2026。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "产品",
+        "行业趋势"
+      ],
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
     },
     {
-      "id": "demo-regulation",
-      "title": "AI 应用合规成为产品上线前的重要环节",
-      "source": "政策与产业",
-      "publishedAt": "2026-07-25T11:20:00+08:00",
-      "category": "政策",
-      "region": "国内",
-      "summary": "模型能力之外，数据来源、隐私保护和内容安全逐渐进入产品设计的早期阶段。",
-      "whyItMatters": "了解基本合规边界，能帮助你在做课程项目和求职作品时减少明显风险。",
-      "keywords": ["AI 合规", "隐私", "产品安全"],
-      "url": "https://example.com/ai-policy"
+      "id": "MIT Technology Review-mmqjd2",
+      "title": "The Download: NASA’s new space telescope and OpenAI&#8217;s autonomous hacker",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 22 Jul 2026 12:10:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "The Download: NASA’s new space telescope and OpenAI&#8217;s autonomous hacker。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
+    },
+    {
+      "id": "MIT Technology Review--ifkfan",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "source": "MIT Technology Review",
+      "publishedAt": "Wed, 22 Jul 2026 09:00:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/"
+    },
+    {
+      "id": "Hugging Face-zanrkq",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "source": "Hugging Face",
+      "publishedAt": "Tue, 21 Jul 2026 20:00:27 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "The State of Simulation for Physical AI: An Overview。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+    },
+    {
+      "id": "MIT Technology Review--benw9m",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 21 Jul 2026 12:10:00 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "The Download: Chinese AI divides the White House, and a record copyright payout。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/"
+    },
+    {
+      "id": "MIT Technology Review--qs4sgw",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "source": "MIT Technology Review",
+      "publishedAt": "Tue, 21 Jul 2026 10:37:34 +0000",
+      "category": "行业",
+      "region": "全球",
+      "summary": "Advancing next-gen AI with materials science innovation。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "行业",
+        "行业趋势"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+    },
+    {
+      "id": "Hugging Face-25h2v8",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "source": "Hugging Face",
+      "publishedAt": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Grabette: an open system to record robot-manipulation data。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "id": "Google AI Blog--x3nog8",
+      "title": "Connect more of your apps to Search",
+      "source": "Google AI Blog",
+      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "category": "产品",
+      "region": "全球",
+      "summary": "Connect more of your apps to Search。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "产品",
+        "行业趋势"
+      ],
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+    },
+    {
+      "id": "Google AI Blog-j46qdt",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "source": "Google AI Blog",
+      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "category": "产品",
+      "region": "全球",
+      "summary": "Create, edit and star in videos with two Google Vids updates。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "产品",
+        "行业趋势"
+      ],
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+    },
+    {
+      "id": "Hugging Face--pappdq",
+      "title": "Newer Models, Same Advantage",
+      "source": "Hugging Face",
+      "publishedAt": "Thu, 16 Jul 2026 11:49:48 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Newer Models, Same Advantage。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
+    },
+    {
+      "id": "Hugging Face--fg1o5j",
+      "title": "Security incident disclosure — July 2026",
+      "source": "Hugging Face",
+      "publishedAt": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Security incident disclosure — July 2026。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/security-incident-july-2026"
+    },
+    {
+      "id": "Hugging Face-b1yt3j",
+      "title": "What building Shippy taught us about building agents",
+      "source": "Hugging Face",
+      "publishedAt": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "What building Shippy taught us about building agents。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
+    },
+    {
+      "id": "Hugging Face-iwuazd",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "source": "Hugging Face",
+      "publishedAt": "Wed, 15 Jul 2026 17:27:01 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Model Routing Is Simple. Until It Isn’t.。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+    },
+    {
+      "id": "Hugging Face--fq2ccr",
+      "title": "Welcome Inkling by Thinking Machines",
+      "source": "Hugging Face",
+      "publishedAt": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Welcome Inkling by Thinking Machines。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling"
+    },
+    {
+      "id": "Hugging Face--f57z6p",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "source": "Hugging Face",
+      "publishedAt": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/real-world-voiceeq"
+    },
+    {
+      "id": "Google AI Blog--yla2f9",
+      "title": "Celebrating 25 years of visual search innovation",
+      "source": "Google AI Blog",
+      "publishedAt": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "category": "产品",
+      "region": "全球",
+      "summary": "Celebrating 25 years of visual search innovation。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "产品",
+        "行业趋势"
+      ],
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/"
+    },
+    {
+      "id": "Hugging Face--6l5wfw",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "source": "Hugging Face",
+      "publishedAt": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "category": "开源",
+      "region": "全球",
+      "summary": "Profiling in PyTorch (Part 3): Attention is all you profile。这是来自公开来源的行业更新，建议打开原文了解完整背景。",
+      "whyItMatters": "理解这条变化，有助于判断 AI 技术、产品与学习方向正在如何演进。",
+      "keywords": [
+        "开源",
+        "行业趋势"
+      ],
+      "url": "https://huggingface.co/blog/torch-attention-profile"
     }
   ]
 }
