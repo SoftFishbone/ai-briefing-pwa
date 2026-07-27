@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-27T06:29:23.980Z",
+  "updatedAt": "2026-07-27T06:35:17.704Z",
   "items": [
+    {
+      "id": "36氪-bhbsm7",
+      "title": "物理AI公司“正奇未来”8个月完成3轮数亿元天使融资",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T06:20:59.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "近日，物理AI公司正奇未来宣布，8个月完成3轮数亿元天使系列融资，核心资方为鼎晖VGC投资、线性资本、上汽集团恒旭资本、柏睿资本、正轩投资、周大福投资等。公司定位“技术+产品”双驱动，聚焦Door-to-Door移动任务，其核心品牌QUORRA专注于打造短途出行机器人。目前，品牌首款产品已量产，并在全球十多个国家和地区拿到商业订单，计划年内于海外开展DTC业务，并同步完成天猫、京东旗舰店的开设以及国内多个省市线下门店网点的铺设。 这篇内容重点围绕“物理AI公司“正奇未来”8个月完成3轮数亿元天使融资”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "国内 AI",
+        "融资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/newsflashes/3913502872589700?f=rss"
+    },
+    {
+      "id": "36氪--57vtro",
+      "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T06:08:54.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器人方向，此前积累了较丰富的消费硬件出海经验，具备从产品定义、研发到市场推广的完整链路能力。 随着AI能力、机器人技术和传感器技术逐渐成熟，体育消费领域正在出现智能化升级趋势。相比传统运动装备，智能体育硬件正在从记录数据向辅助训练、提升体验方向发展，覆盖智能健身设备、运动穿戴、AI陪练等多个场景。其中，网球、羽毛球、高尔夫等强训练属性运动，由于存在较高的技术门槛和重复训练需求，成为智能硬件探索的重要方向。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "算力",
+        "融资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3913490184754313?f=rss"
+    },
+    {
+      "id": "36氪--pssdlk",
+      "title": "阿里AI Agent“千问办公”小范围测试",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T05:50:21.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "这条资讯来自36氪，主题是“阿里AI Agent“千问办公”小范围测试”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "Agent"
+      ],
+      "url": "https://36kr.com/newsflashes/3913472762467713?f=rss"
+    },
+    {
+      "id": "36氪-dkpfzc",
+      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T01:20:17.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "国内 AI",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3910655616521348?f=rss"
+    },
+    {
+      "id": "36氪--ayr89x",
+      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T01:00:00.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/p/3912546487637378?f=rss"
+    },
     {
       "id": "TechCrunch AI-rjpjkv",
       "title": "Are brain waves the next unlock for physical AI?",
@@ -14,6 +91,23 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+    },
+    {
+      "id": "36氪-vxecfc",
+      "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+      "source": "36氪",
+      "publishedAt": "2026-07-26T23:50:15.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "今日热点导览 A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次 TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景，对应长鑫科技估值为1万亿元、1.5万亿元、2.3万亿元和4.25万亿元。基于上述预估的1万亿元-4万亿元市值区间，对应上市后首日涨幅落在70%-600%区间。对比8.66元的发行价，中一签的盈利空间大约在3000元至2.6万元之间。（中国证券报） 日本技术人员拆解宇树机器人，坦言人形机器人短期内赶不上中国 日本日经xTECH网站7月23日发布了一段日本技术人员拆解中国宇树科技G1人形机器人的视频，尝试探究其内部结构与技术水平。在这段视频中，日方技术人员和媒体记者边拆边感叹中国人形机器人的技术水平之高，并最终得出结论：中国机器人研发显然已超越了“只会展示”的阶段，在人形机器人领域，日本想在短时间内缩小与中国的差距“恐怕并不现实”。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "Agent",
+        "AI 安全",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3913118530819457?f=rss"
     },
     {
       "id": "TechCrunch AI--me8vkj",
@@ -59,6 +153,23 @@
       "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
     },
     {
+      "id": "36氪-lfc7yc",
+      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+      "source": "36氪",
+      "publishedAt": "2026-07-26T01:00:00.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。 这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。 「眸深智能」成立于2025年1月，定位为全球最懂动作的自进化具身大脑公司，致力于\"给10亿台机器人装原生通用大脑\"。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "国内 AI",
+        "大模型",
+        "推理",
+        "多模态"
+      ],
+      "url": "https://36kr.com/p/3911162147640456?f=rss"
+    },
+    {
       "id": "TechCrunch AI-gsllfn",
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "source": "TechCrunch AI",
@@ -85,6 +196,38 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+    },
+    {
+      "id": "36氪-7uvoo1",
+      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+      "source": "36氪",
+      "publishedAt": "2026-07-25T11:00:21.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。 公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "国内 AI",
+        "算力"
+      ],
+      "url": "https://36kr.com/p/3910880823202948?f=rss"
+    },
+    {
+      "id": "36氪--kxpr2p",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "source": "36氪",
+      "publishedAt": "2026-07-25T00:57:52.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻） 公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接近Fable 5但成本减半 7月25日，Anthropic正式发布最新旗舰AI模型Claude Opus 5。官方称，Opus 5在编程、Agent任务及复杂推理等能力上进一步提升，整体性能接近更高端的Claude Fable 5，但API价格仍维持上一代Opus 4.8水平，为每百万输入Token 5美元、输出Token 25美元。Anthropic表示，该模型更适合企业办公、软件开发等日常高频场景，并进一步增强了安全性和抗滥用能力。目前，Claude Opus 5已向Claude平台及API用户开放。（极客公园） AI最前沿 腾讯混元合并大语言模型与多模态团队，成立基础模型部 36氪获悉，腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由腾讯首席AI科学家姚顺雨管理，以进一步提升模型研发和协同效率，探索全模态模型的智能上限。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "大模型",
+        "Agent",
+        "推理"
+      ],
+      "url": "https://36kr.com/p/3910351337821318?f=rss"
     },
     {
       "id": "TechCrunch AI-rw0fkk",
@@ -213,135 +356,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
-    },
-    {
-      "id": "MIT Technology Review-u77efp",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-24T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s body, it starts to deteriorate.",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
-    },
-    {
-      "id": "TechCrunch AI--d9ff8p",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T01:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work. 这篇内容重点围绕“How AI guardrails are impeding the work of offensive cybersecurity researchers”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
-    },
-    {
-      "id": "TechCrunch AI--4sty0d",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T20:33:02.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. 这篇内容重点围绕“AMD takes on Nvidia with its Helios AI rack-scale system”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
-    },
-    {
-      "id": "TechCrunch AI-yjvsx2",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T19:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Anthropic updates Claude voice mode with more capable models”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-    },
-    {
-      "id": "TechCrunch AI--sb7yd6",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T18:38:34.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch. 这篇内容重点围绕“AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
-    },
-    {
-      "id": "TechCrunch AI-u69w8q",
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T17:07:35.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost. 这篇内容重点围绕“Runway launches AI model router as generative media gets crowded”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
-    },
-    {
-      "id": "MIT Technology Review-6b2c3d",
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-23T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about 9% of its total demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
-    },
-    {
-      "id": "MIT Technology Review--mvnn8z",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
-    },
-    {
-      "id": "Google AI Blog-xuqtmv",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon. 这篇内容重点围绕“3 Google updates from Galaxy Unpacked 2026”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
     }
   ]
 }
