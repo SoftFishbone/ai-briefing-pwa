@@ -5,6 +5,8 @@ const feeds = [
   { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', region: '全球', category: '开源', aiOnly: true },
   { name: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss/', region: '全球', category: '研究与产品', aiOnly: true },
   { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', region: '全球', category: '公司与产品', aiOnly: true },
+  { name: '机器之心', url: 'https://www.jiqizhixin.com/rss', region: '国内', category: '国内 AI', aiOnly: true },
+  { name: '36氪', url: 'https://36kr.com/feed', region: '国内', category: '国内 AI', aiOnly: false },
   { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/', region: '全球', category: '行业观察', aiOnly: false }
 ];
 
