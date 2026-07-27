@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-07-26T08:00:00+08:00",
+  "items": [
+    {
+      "id": "demo-agent-workflows",
+      "title": "AI Agent 正从聊天工具走向可执行工作流",
+      "source": "行业观察",
+      "publishedAt": "2026-07-26T07:40:00+08:00",
+      "category": "产品",
+      "region": "全球",
+      "summary": "越来越多产品开始让模型调用工具、完成多步骤任务，并把结果交付给真实用户。",
+      "whyItMatters": "对学生来说，重点不只是会使用模型，而是理解任务拆解、工具调用和结果验证。",
+      "keywords": ["Agent", "工具调用", "工作流"],
+      "url": "https://example.com/ai-agent-workflows"
+    },
+    {
+      "id": "demo-open-source",
+      "title": "开源模型继续把 AI 能力带到更多个人设备",
+      "source": "开源社区",
+      "publishedAt": "2026-07-25T21:10:00+08:00",
+      "category": "开源",
+      "region": "全球",
+      "summary": "更小、更易部署的模型让本地运行、端侧推理和个人数据处理成为更现实的选择。",
+      "whyItMatters": "本地模型会改变应用开发方式，也让模型部署和性能优化成为值得补上的技能。",
+      "keywords": ["开源模型", "端侧 AI", "推理"],
+      "url": "https://example.com/open-source-models"
+    },
+    {
+      "id": "demo-ai-coding",
+      "title": "AI 编程工具开始从补全代码转向协助完成项目",
+      "source": "开发者工具",
+      "publishedAt": "2026-07-25T16:30:00+08:00",
+      "category": "工具",
+      "region": "国内",
+      "summary": "新一代开发工具更强调理解代码库、修改多个文件和运行验证流程。",
+      "whyItMatters": "未来的竞争力会更多来自问题定义、代码审查和产品判断，而不只是打字速度。",
+      "keywords": ["AI 编程", "代码审查", "软件工程"],
+      "url": "https://example.com/ai-coding"
+    },
+    {
+      "id": "demo-regulation",
+      "title": "AI 应用合规成为产品上线前的重要环节",
+      "source": "政策与产业",
+      "publishedAt": "2026-07-25T11:20:00+08:00",
+      "category": "政策",
+      "region": "国内",
+      "summary": "模型能力之外，数据来源、隐私保护和内容安全逐渐进入产品设计的早期阶段。",
+      "whyItMatters": "了解基本合规边界，能帮助你在做课程项目和求职作品时减少明显风险。",
+      "keywords": ["AI 合规", "隐私", "产品安全"],
+      "url": "https://example.com/ai-policy"
+    }
+  ]
+}

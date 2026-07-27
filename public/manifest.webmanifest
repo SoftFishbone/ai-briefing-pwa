@@ -1,0 +1,16 @@
+{
+  "name": "今日 AI · 每日简报",
+  "short_name": "今日 AI",
+  "description": "每天用几分钟，理解 AI 行业正在发生什么。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#f4f1eb",
+  "lang": "zh-CN",
+  "icons": [{
+    "src": "./icon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
