@@ -1,225 +1,86 @@
 {
-  "updatedAt": "2026-07-27T06:35:17.704Z",
+  "updatedAt": "2026-07-28T02:53:12.417Z",
   "items": [
     {
-      "id": "36氪-bhbsm7",
-      "title": "物理AI公司“正奇未来”8个月完成3轮数亿元天使融资",
+      "id": "36氪-xnxzc2",
+      "title": "杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施",
       "source": "36氪",
-      "publishedAt": "2026-07-27T06:20:59.000Z",
+      "publishedAt": "2026-07-28T02:45:34.000Z",
       "category": "国内 AI",
       "region": "国内",
-      "summary": "近日，物理AI公司正奇未来宣布，8个月完成3轮数亿元天使系列融资，核心资方为鼎晖VGC投资、线性资本、上汽集团恒旭资本、柏睿资本、正轩投资、周大福投资等。公司定位“技术+产品”双驱动，聚焦Door-to-Door移动任务，其核心品牌QUORRA专注于打造短途出行机器人。目前，品牌首款产品已量产，并在全球十多个国家和地区拿到商业订单，计划年内于海外开展DTC业务，并同步完成天猫、京东旗舰店的开设以及国内多个省市线下门店网点的铺设。 这篇内容重点围绕“物理AI公司“正奇未来”8个月完成3轮数亿元天使融资”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
-        "融资",
-        "机器人"
-      ],
-      "url": "https://36kr.com/newsflashes/3913502872589700?f=rss"
-    },
-    {
-      "id": "36氪--57vtro",
-      "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
-      "source": "36氪",
-      "publishedAt": "2026-07-27T06:08:54.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职于投资机构和机器人公司，长期关注智能硬件领域投资与运营增长。团队覆盖无人机、无人车、商用清洁、割草、泳池清洁等机器人方向，此前积累了较丰富的消费硬件出海经验，具备从产品定义、研发到市场推广的完整链路能力。 随着AI能力、机器人技术和传感器技术逐渐成熟，体育消费领域正在出现智能化升级趋势。相比传统运动装备，智能体育硬件正在从记录数据向辅助训练、提升体验方向发展，覆盖智能健身设备、运动穿戴、AI陪练等多个场景。其中，网球、羽毛球、高尔夫等强训练属性运动，由于存在较高的技术门槛和重复训练需求，成为智能硬件探索的重要方向。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "算力",
-        "融资",
-        "机器人"
-      ],
-      "url": "https://36kr.com/p/3913490184754313?f=rss"
-    },
-    {
-      "id": "36氪--pssdlk",
-      "title": "阿里AI Agent“千问办公”小范围测试",
-      "source": "36氪",
-      "publishedAt": "2026-07-27T05:50:21.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "这条资讯来自36氪，主题是“阿里AI Agent“千问办公”小范围测试”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "Agent"
-      ],
-      "url": "https://36kr.com/newsflashes/3913472762467713?f=rss"
-    },
-    {
-      "id": "36氪-dkpfzc",
-      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
-      "source": "36氪",
-      "publishedAt": "2026-07-27T01:20:17.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
-        "融资"
-      ],
-      "url": "https://36kr.com/p/3910655616521348?f=rss"
-    },
-    {
-      "id": "36氪--ayr89x",
-      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
-      "source": "36氪",
-      "publishedAt": "2026-07-27T01:00:00.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/p/3912546487637378?f=rss"
-    },
-    {
-      "id": "TechCrunch AI-rjpjkv",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T00:19:14.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. 这篇内容重点围绕“Are brain waves the next unlock for physical AI?”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
-    },
-    {
-      "id": "36氪-vxecfc",
-      "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
-      "source": "36氪",
-      "publishedAt": "2026-07-26T23:50:15.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "今日热点导览 A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次 TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景，对应长鑫科技估值为1万亿元、1.5万亿元、2.3万亿元和4.25万亿元。基于上述预估的1万亿元-4万亿元市值区间，对应上市后首日涨幅落在70%-600%区间。对比8.66元的发行价，中一签的盈利空间大约在3000元至2.6万元之间。（中国证券报） 日本技术人员拆解宇树机器人，坦言人形机器人短期内赶不上中国 日本日经xTECH网站7月23日发布了一段日本技术人员拆解中国宇树科技G1人形机器人的视频，尝试探究其内部结构与技术水平。在这段视频中，日方技术人员和媒体记者边拆边感叹中国人形机器人的技术水平之高，并最终得出结论：中国机器人研发显然已超越了“只会展示”的阶段，在人形机器人领域，日本想在短时间内缩小与中国的差距“恐怕并不现实”。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "Agent",
-        "AI 安全",
-        "机器人"
-      ],
-      "url": "https://36kr.com/p/3913118530819457?f=rss"
-    },
-    {
-      "id": "TechCrunch AI--me8vkj",
-      "title": "Making sense of the panic over Chinese AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T19:40:57.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street. 这篇内容重点围绕“Making sense of the panic over Chinese AI”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
-    },
-    {
-      "id": "TechCrunch AI-gb802i",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T16:33:13.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
-    },
-    {
-      "id": "TechCrunch AI--8asy5a",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T01:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor. 这篇内容重点围绕“Monday.com is the latest tech company to blame AI for layoffs — here are 20 others”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
-    },
-    {
-      "id": "36氪-lfc7yc",
-      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-      "source": "36氪",
-      "publishedAt": "2026-07-26T01:00:00.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。 这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。 「眸深智能」成立于2025年1月，定位为全球最懂动作的自进化具身大脑公司，致力于\"给10亿台机器人装原生通用大脑\"。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "国内 AI",
-        "大模型",
-        "推理",
-        "多模态"
-      ],
-      "url": "https://36kr.com/p/3911162147640456?f=rss"
-    },
-    {
-      "id": "TechCrunch AI-gsllfn",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand. 这篇内容重点围绕“Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
-    },
-    {
-      "id": "TechCrunch AI-kt6aom",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25T13:05:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
-    },
-    {
-      "id": "36氪-7uvoo1",
-      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-      "source": "36氪",
-      "publishedAt": "2026-07-25T11:00:21.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。 公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "summary": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，市人民政府应当统筹规划人工智能基础设施体系建设，适当超前布局算力网、新型电网、新一代通信网、数据可信空间等新型设施，建立健全市场化运营机制，保障各类设施的高效利用与安全可控；市人民政府应当统筹智能算力设施布局和能源资源配置。建设超大城市新型能源体系，强化电源、电网、负荷、储能协同，推动城市供电可靠性符合智能算力设施使用标准，保障算力用电安全稳定充足。 这篇内容重点围绕“杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
       "keywords": [
         "国内 AI",
         "算力"
       ],
-      "url": "https://36kr.com/p/3910880823202948?f=rss"
+      "url": "https://36kr.com/newsflashes/3914706682254473?f=rss"
     },
     {
-      "id": "36氪--kxpr2p",
-      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "id": "36氪-wkhyam",
+      "title": "杭州：拟支持企业建设词元生产平台、交易结算平台、对外服务平台",
       "source": "36氪",
-      "publishedAt": "2026-07-25T00:57:52.000Z",
+      "publishedAt": "2026-07-28T02:43:59.000Z",
       "category": "国内 AI",
       "region": "国内",
-      "summary": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻） 公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接近Fable 5但成本减半 7月25日，Anthropic正式发布最新旗舰AI模型Claude Opus 5。官方称，Opus 5在编程、Agent任务及复杂推理等能力上进一步提升，整体性能接近更高端的Claude Fable 5，但API价格仍维持上一代Opus 4.8水平，为每百万输入Token 5美元、输出Token 25美元。Anthropic表示，该模型更适合企业办公、软件开发等日常高频场景，并进一步增强了安全性和抗滥用能力。目前，Claude Opus 5已向Claude平台及API用户开放。（极客公园） AI最前沿 腾讯混元合并大语言模型与多模态团队，成立基础模型部 36氪获悉，腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由腾讯首席AI科学家姚顺雨管理，以进一步提升模型研发和协同效率，探索全模态模型的智能上限。",
+      "summary": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，拟支持词元经济布局发展。支持企业建设词元生产平台、交易结算平台、对外服务平台，提升本市的词元生产、调度和配置能力。支持词元服务消费市场发展，推动词元服务在制造、政务、教育、医疗、金融、消费等重点行业的示范应用和推广，促进词元服务与实体经济深度融合。 这篇内容重点围绕“杭州：拟支持企业建设词元生产平台、交易结算平台、对外服务平台”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3914705126528133?f=rss"
+    },
+    {
+      "id": "36氪--bdw993",
+      "title": "微软AI发布网络安全模型MAI-Cyber-1-Flash，漏洞检测性能提升并降低50%成本",
+      "source": "36氪",
+      "publishedAt": "2026-07-28T02:10:37.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "微软AI（Microsoft AI）当地时间7月27日发布首款网络安全专用模型MAI-Cyber-1-Flash，并将其集成至多智能体漏洞识别与修复平台MDASH。微软表示，该组合在CyberGym漏洞检测基准测试中取得95.95%的成绩，超过Mythos、Gemini和GPT系列模型，同时相比现有MDASH方案降低约50%成本。微软同时推出智能体安全系统Perception，用于持续监控、修补漏洞并应对新型威胁。（界面） 这篇内容重点围绕“微软AI发布网络安全模型MAI-Cyber-1-Flash，漏洞检测性能提升并降低50%成本”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3914672335295874?f=rss"
+    },
+    {
+      "id": "36氪--q9ksdu",
+      "title": "比亚迪：人形机器人计划八月发布",
+      "source": "36氪",
+      "publishedAt": "2026-07-28T02:03:36.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "针对人形机器人目前进展情况，比亚迪官方回应称，计划八月在“迪空间”亮相发布。此前比亚迪曾在“迪空间”发布一张人形机器人宣传海报，海报称“八月初，有个新朋友，想来认识你”。 （财联社） 这篇内容重点围绕“比亚迪：人形机器人计划八月发布”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "国内 AI",
+        "机器人"
+      ],
+      "url": "https://36kr.com/newsflashes/3914665427899523?f=rss"
+    },
+    {
+      "id": "TechCrunch AI-t3nhmg",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T00:13:33.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. 这篇内容重点围绕“Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+    },
+    {
+      "id": "36氪--aopict",
+      "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T23:36:45.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "今日热点导览 2026暑期档电影票房已突破57亿 茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略错误 苹果公司称多项服务出现故障，包括App Store TOP 3大新闻 蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴 7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天涨幅465.82%，总市值3.31万亿元。值得注意的是，近日，蔚来现身长鑫科技IPO战略配售名单，承诺认购金额1.58亿元人民币，锁定期18个月。按发行价8.66元/股计算，蔚来认购约1824.48万股。以27日收盘价49元/股计算，蔚来账面浮盈约7.4亿元，收益率超465%。当天，有博主发布照片显示，长鑫科技日前在上海举办了上市答谢晚宴，主题为“长铸十载 鑫启未来”，蔚来创始人李斌现身晚宴现场，手持红酒面带笑容。（界面新闻） 瑞幸打赢“泰国瑞幸”，获赔近2000万 7月27日，瑞幸官方微博转发了泰国知名律所Tilleke&Gibbins发布的一则消息。消息显示，泰国专门案件上诉法院近日宣布，瑞幸咖啡诉泰国瑞幸商标侵权案二审胜诉，维持一审原判。法院认定被告恶意抢注商标和侵权行为，判令被告撤销已注册的瑞幸商标，永久禁止在与咖啡业务相关的经营活动中使用瑞幸商标，包括“LUCKIN COFFEE”“瑞幸咖啡”以及鹿头标识。同时，法院判令被告向瑞幸赔付损害赔偿金1000万泰铢，外加逾8500万泰铢的持续性损害赔偿金，总金额累计逾9500万泰铢（约合1918万元人民币）。 早在2021年，瑞幸计划落地泰国市场前夕，当地多名主体抢先注册包含“LUCKIN COFFEE”英文标识、“瑞幸咖啡”中文字样、小鹿图形全套商标，同步注册近似企业名称与公章，并依托抢注商标开设线下咖啡门店。2023年12月，泰国皇家50R集团（50R group）曾向法院提交诉讼，要求法庭判决中国瑞幸咖啡赔偿经济损失100亿泰铢（约20亿元人民币），法院对此已立案受理。此后瑞幸与抢注方开展多轮前置商标争议程序，该案曾引发各界对泰国境内境外合法品牌权利人保护问题的大规模讨论。（界面新闻） 澳门政府发布美素佳儿奶粉铅超标事件最新检测结果 澳门政府官网7月27日晚间发文称，多部门联合跟进“皇家美素力1号”婴儿奶粉铅超标事件，在同时增检该品牌1-4号共13个样本，重金属铅检测未见异常。卫生局设儿科急诊绿色通道，所有求诊者无铅中毒紧急情况。 7月25日，澳门特别行政区政府网站曾发布消息，称皇家美素力1号奶粉被检出铅含量超标。菲仕兰公告回应称，菲仕兰香港有限公司在接到通知后，对同批次的产品在第三方权威实验室进行确认检测，最终检测结果和结论为产品铅含量未超出标准，检出结果为＜0.007mg/KG，澳门食安标准为＜0.02mg/KG。（第一财经） AI最前沿 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。",
       "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
         "国内 AI",
@@ -227,135 +88,270 @@
         "Agent",
         "推理"
       ],
-      "url": "https://36kr.com/p/3910351337821318?f=rss"
+      "url": "https://36kr.com/p/3914520847570307?f=rss"
     },
     {
-      "id": "TechCrunch AI-rw0fkk",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "id": "TechCrunch AI-9rhoq1",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "publishedAt": "2026-07-27T21:17:11.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. 这篇内容重点围绕“I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says. 这篇内容重点围绕“Satya Nadella says companies that trust one AI for everything may not survive”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
       ],
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
     },
     {
-      "id": "TechCrunch AI--k57qfc",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "id": "TechCrunch AI--l61lh3",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T22:25:58.000Z",
+      "publishedAt": "2026-07-27T20:19:42.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. 这篇内容重点围绕“Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project. 这篇内容重点围绕“PSA: Your Claude shared chats and Artifacts may have ended up on Google”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
       ],
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
     },
     {
-      "id": "TechCrunch AI-bdbemp",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "id": "TechCrunch AI--6nff7p",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T18:07:32.000Z",
+      "publishedAt": "2026-07-27T18:32:11.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them. 这篇内容重点围绕“Why Cognition bought Poke: AI personality is becoming a competitive advantage”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. 这篇内容重点围绕“Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
         "公司与产品",
         "Agent"
       ],
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
     },
     {
-      "id": "TechCrunch AI-7d2a7z",
-      "title": "Anthropic launches Opus 5",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
-      "category": "公司与产品",
+      "id": "MIT Technology Review-3dfoni",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "category": "行业观察",
       "region": "全球",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases. 这篇内容重点围绕“Anthropic launches Opus 5”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face , another AI company, was the first time I got genuine chills about what large language models are now able to do.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
-        "公司与产品"
+        "行业观察",
+        "Agent"
       ],
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
     },
     {
-      "id": "TechCrunch AI--ko5huf",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "id": "TechCrunch AI--pjij7j",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T15:51:49.000Z",
+      "publishedAt": "2026-07-27T17:28:42.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation. 这篇内容重点围绕“As US weighs response to Chinese AI, industry urges against broad open-weight restrictions”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
-    },
-    {
-      "id": "TechCrunch AI-qh6u6g",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T15:13:57.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol. 这篇内容重点围绕“Bluesky’s AI assistant Attie expands into an open social research tool”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
-    },
-    {
-      "id": "TechCrunch AI--91spg1",
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T15:09:55.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation. 这篇内容重点围绕“Midjourney acquired the astrology app Co-Star”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
-    },
-    {
-      "id": "TechCrunch AI--q0lkrz",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both. 这篇内容重点围绕“OpenAI’s Hugging Face breach has reignited the debate over alignment and control”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
       "keywords": [
         "公司与产品"
       ],
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/"
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
     },
     {
-      "id": "TechCrunch AI--206mbp",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "id": "TechCrunch AI-nk7ngh",
+      "title": "Threads users can now chat with Meta AI in their DMs",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-24T13:36:42.000Z",
+      "publishedAt": "2026-07-27T16:45:24.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents. 这篇内容重点围绕“OpenAI’s new voice mode makes it to the ChatGPT desktop app”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. 这篇内容重点围绕“Threads users can now chat with Meta AI in their DMs”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+    },
+    {
+      "id": "TechCrunch AI-g012ay",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:57:12.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online. 这篇内容重点围绕“Google’s AI search is rapidly becoming the default, new data shows”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+    },
+    {
+      "id": "TechCrunch AI-2j5b23",
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy. 这篇内容重点围绕“Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "TechCrunch AI--x3cnyr",
+      "title": "This $9 key physically locks your most addictive apps",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:25:37.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone. 这篇内容重点围绕“This $9 key physically locks your most addictive apps”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
+    },
+    {
+      "id": "TechCrunch AI-ye1v3u",
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:01:50.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase. 这篇内容重点围绕“Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
+    },
+    {
+      "id": "TechCrunch AI-3gfhoo",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners. 这篇内容重点围绕“Enigma raises $71M to make controlling a robot as easy as adjusting the volume”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+    },
+    {
+      "id": "MIT Technology Review-twolqf",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-27T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors. New, cheaper methods to obtain fuel could help ensure that those nuclear projects stay on track.",
       "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
-        "公司与产品",
+        "行业观察",
         "Agent"
       ],
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
+    },
+    {
+      "id": "MIT Technology Review--dngkhf",
+      "title": "The path to artificial superintelligence",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-27T12:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+    },
+    {
+      "id": "MIT Technology Review--pix9jy",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-27T11:40:16.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law . Today, bringing a new drug to market takes an average of 10-15 years and costs anywhere from $1 billion to $2.5 billion , with failure rates upward of 90%.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+    },
+    {
+      "id": "36氪-q3xrdd",
+      "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T11:37:06.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。 韩国交易巨头与LG CNS合作，在代币化测试中将应收账款上链 韩国最大的贸易公司 POSCO International 已开始在区块链上对贸易应收账款进行代币化试点，该试验有望加快其全球子公司之间的商业支付速度。该公司去年通过涵盖钢铁、能源及电池材料的业务实现了222亿美元的收入。该公司表示，正与LG集团的技术部门LG CNS合作，在Layer-1区块链Injective（INJ）上发行、转让及结算应收款项，两家公司在一次新闻简报会上向CoinDesk透露。此次试点使用的是由浦项制铁海外业务及其交易对手之间的真实贸易产生的应收账款，而非模拟交易。（新浪财经） 企业微信智能助理“大圆”开启内测 36氪获悉，据微信派消息，企业微信智能助理“大圆”现已开启内测，支持调用企业微信智能文档、智能表格、会议、日程等几十项能力。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "国内 AI",
+        "大模型",
+        "融资",
+        "AI 安全"
+      ],
+      "url": "https://36kr.com/p/3913320648971395?f=rss"
+    },
+    {
+      "id": "MIT Technology Review--z1rz8v",
+      "title": "Building the enterprise environment for agentic AI",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-27T11:32:58.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the ability to predictably plan and scale agents.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
+    },
+    {
+      "id": "36氪-dkpu5h",
+      "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+      "source": "36氪",
+      "publishedAt": "2026-07-27T09:48:07.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。 过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。 估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "大模型",
+        "Agent",
+        "多模态"
+      ],
+      "url": "https://36kr.com/p/3913706151400583?f=rss"
+    },
+    {
+      "id": "Hugging Face-wbkd7u",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-27T09:32:20.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
     }
   ]
 }
