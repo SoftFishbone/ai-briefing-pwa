@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-01T03:26:26.761Z",
+  "updatedAt": "2026-08-02T03:26:30.130Z",
   "items": [
+    {
+      "id": "TechCrunch AI-b6dbky",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T20:26:04.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward. 这篇内容重点围绕“Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+    },
+    {
+      "id": "TechCrunch AI-oxhh9u",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T19:45:45.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+    },
+    {
+      "id": "TechCrunch AI--kbk6ve",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T17:07:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Sam Altman is still making the case for parenting via ChatGPT”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+    },
+    {
+      "id": "TechCrunch AI--x3cnyr",
+      "title": "This $9 key physically locks your most addictive apps",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T15:58:17.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone. 这篇内容重点围绕“This $9 key physically locks your most addictive apps”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
+    },
+    {
+      "id": "36氪--n9ndbs",
+      "title": "金山办公WPS存储管理新版本上线",
+      "source": "36氪",
+      "publishedAt": "2026-08-01T08:30:26.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散在不同位置的磁盘占用查看、缓存清理和存储路径调整等功能，被集中到同一页面。其次，安装路径可以分别设置。 这篇内容重点围绕“金山办公WPS存储管理新版本上线”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "Agent"
+      ],
+      "url": "https://36kr.com/newsflashes/3920632482491776?f=rss"
+    },
+    {
+      "id": "36氪-kjjouh",
+      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+      "source": "36氪",
+      "publishedAt": "2026-08-01T06:37:32.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。 因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。 但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/p/3920595518533250?f=rss"
+    },
     {
       "id": "36氪-adnfyl",
       "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
@@ -163,20 +248,6 @@
       "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/"
     },
     {
-      "id": "36氪--13wq1a",
-      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
-      "source": "36氪",
-      "publishedAt": "2026-07-31T12:59:06.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化提质增效，做好重点领域内卷治理，推进全产业链、全价值链降本节支，增强经营创现能力和资本积累积聚能力，以“自身稳”带动“行业稳”。要坚决守住风险底线，有效发挥司库体系功能作用，切实加强穿透监管，扎实抓好防汛救灾和安全生产工作，筑牢高质量发展的安全屏障。 这篇内容重点围绕“国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/newsflashes/3919556554305154?f=rss"
-    },
-    {
       "id": "MIT Technology Review--4np18o",
       "title": "The Download: Montana’s new experimental drug rules",
       "source": "MIT Technology Review",
@@ -214,7 +285,7 @@
       "publishedAt": "2026-07-31T10:01:34.000Z",
       "category": "国内 AI",
       "region": "国内",
-      "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提升至6%，主要由可比口径增长及全价销售驱动。Miu Miu零售额同比增长3%，第二季度和第一季度增速持平。对比其去年上半年49%的增幅，增速明显放缓。该集团2025年底收购的Versace（范思哲）上半年净收入3.05亿欧元，业绩进展符合预期。（界面） 雅克科技：公司生产经营情况正常，内部经营环境未发生重大变化 36氪获悉，雅克科技公告，公司股票交易价格连续三个交易日（2026年7月29日、2026年7月30日、2026年7月31日）收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。公司未��现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息。目前公司生产经营情况正常，内部经营环境未发生重大变化。经查询，公司、控股股东及实际控制人不存在关于本公司的应披露而未披露的重大事项。 万科选举徐恩利为董事长 7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届议案。新一届董事会第一次会议决议公告显示，选举徐恩利为公司董事长，续聘黄宇为公司总裁。万科方面表示，徐恩利长期从事企业管理工作，深耕房地产领域多年，并担任过A股、港股两地上市公司负责人，徐恩利与总裁黄宇的搭档组合，契合万科的企业特点和当前形势需要，有利于持续推进化险与发展。（证券时报） 蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用 36氪获悉，2026年ChinaJoy期间，蚂蚁国际宣布，其全球账户服务已被超过半数的中国大中型游戏厂商所采用，其中包括库洛游戏、完美世界、网易等行业头部；同时众多AI应用企业、短剧平台以及中小游戏开发工作室也已接入该服务。蚂蚁国际相关数据显示，中国数娱出海商户交易额在2026年上半年快速增长。",
+      "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提升至6%，主要由可比口径增长及全价销售驱动。Miu Miu零售额同比增长3%，第二季度和第一季度增速持平。对比其去年上半年49%的增幅，增速明显放缓。该集团2025年底收购的Versace（范思哲）上半年净收入3.05亿欧元，业绩进展符合预期。（界面） 雅克科技：公司生产经营情况正常，内部经营环境未发生重大变化 36氪获悉，雅克科技公告，公司股票交易价格连续三个交易日（2026年7月29日、2026年7月30日、2026年7月31日）收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息。目前公司生产经营情况正常，内部经营环境未发生重大变化。经查询，公司、控股股东及实际控制人不存在关于本公司的应披露而未披露的重大事项。 万科选举徐恩利为董事长 7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届议案。新一届董事会第一次会议决议公告显示，选举徐恩利为公司董事长，续聘黄宇为公司总裁。万科方面表示，徐恩利长期从事企业管理工作，深耕房地产领域多年，并担任过A股、港股两地上市公司负责人，徐恩利与总裁黄宇的搭档组合，契合万科的企业特点和当前形势需要，有利于持续推进化险与发展。（证券时报） 蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用 36氪获悉，2026年ChinaJoy期间，蚂蚁国际宣布，其全球账户服务已被超过半数的中国大中型游戏厂商所采用，其中包括库洛游戏、完美世界、网易等行业头部；同时众多AI应用企业、短剧平台以及中小游戏开发工作室也已接入该服务。蚂蚁国际相关数据显示，中国数娱出海商户交易额在2026年上半年快速增长。",
       "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
         "国内 AI",
@@ -281,79 +352,6 @@
         "国内 AI"
       ],
       "url": "https://36kr.com/p/3919271016263303?f=rss"
-    },
-    {
-      "id": "36氪-89sofe",
-      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
-      "source": "36氪",
-      "publishedAt": "2026-07-31T06:00:25.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看， 与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎 。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾斜。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
-        "大模型"
-      ],
-      "url": "https://36kr.com/p/3919137999957382?f=rss"
-    },
-    {
-      "id": "36氪--3mf45c",
-      "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-      "source": "36氪",
-      "publishedAt": "2026-07-31T01:52:24.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。 目前具身智能赛道的创始人多分为几类，一类是一类是自动驾驶背景出身，长于系统集成与工程化落地；另一类源于Neo Lab，具备前沿的具身智能技术视角。而昆腾动力的创始人李强则属于第三类，此前深耕物流商业化场景，兼具AI技术理解力与全球化业务操盘经验。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "国内 AI",
-        "融资",
-        "机器人"
-      ],
-      "url": "https://36kr.com/p/3917874427555457?f=rss"
-    },
-    {
-      "id": "TechCrunch AI-966xbx",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-31T01:06:54.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents. 这篇内容重点围绕“Anthropic says its own AI models breached three companies during security tests”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
-    },
-    {
-      "id": "TechCrunch AI-i4fmse",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T23:25:58.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
-    },
-    {
-      "id": "TechCrunch AI-n6txsp",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T23:08:58.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns. 这篇内容重点围绕“Reddit reports a solid quarter but shows signs of AI’s impact”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
     }
   ]
 }
