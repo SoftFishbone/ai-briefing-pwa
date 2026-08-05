@@ -1,361 +1,355 @@
 {
-  "updatedAt": "2026-08-04T02:56:37.764Z",
+  "updatedAt": "2026-08-05T02:52:54.292Z",
   "items": [
     {
-      "id": "36氪-ntwc3e",
-      "title": "截至今年7月底，国家标准中文版在线阅读量超1.74亿次",
+      "id": "36氪-skv64v",
+      "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
       "source": "36氪",
-      "publishedAt": "2026-08-04T02:54:34.000Z",
+      "publishedAt": "2026-08-05T02:17:16.000Z",
       "category": "国内 AI",
       "region": "国内",
-      "summary": "今天了解到，市场监管总局将免费公开国家标准作为为民办实事的重要举措， 自去年对3万余项国家标准提供免费下载服务后，今年又全文免费公开了2600余项国家标准外文版。截至2026年7月底，国家标准中文版在线阅读量超过1.74亿次、下载量超过5300万次，上线仅三个多月的国家标准外文版在线阅读量超过12万次、下载量超过16万次，《智慧城市时空基础设施 评价指标体系》《有限空间作业安全技术规范》等人工智能与安全方面的国家标准阅读量和下载量位居前列。（央视新闻） 这篇内容重点围绕“截至今年7月底，国家标准中文版在线阅读量超1.74亿次”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/newsflashes/3924624581523586?f=rss"
-    },
-    {
-      "id": "36氪--9hbxpn",
-      "title": "创业板指涨超4%",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T02:47:29.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "这条资讯来自36氪，主题是“创业板指涨超4%”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，AI智能硬件与机器人企业「若创科技」（英文名：Strutt）近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。 本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道建设，以及首款个人智能出行机器人EV1的规模化生产和交付。同时，公司正式启用中文品牌“昂首”，首款个人出行机器人在中国市场的官方命名为“昂首EV1”，计划于2026年下半年启动中国市场业务，目前已开放首批试驾报名。 若创科技成立于2023年，总部位于新加坡，研发与供应链基地位于中国大湾区。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
       "keywords": [
         "国内 AI",
-        "算力"
-      ],
-      "url": "https://36kr.com/newsflashes/3924617622272132?f=rss"
-    },
-    {
-      "id": "36氪--9hbxqi",
-      "title": "创业板指涨超3%",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T01:54:38.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "这条资讯来自36氪，主题是“创业板指涨超3%”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "国内 AI",
-        "算力"
-      ],
-      "url": "https://36kr.com/newsflashes/3924565663152521?f=rss"
-    },
-    {
-      "id": "36氪--9hbxrd",
-      "title": "创业板指涨超2%",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T01:40:28.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "这条资讯来自36氪，主题是“创业板指涨超2%”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "国内 AI",
-        "算力"
-      ],
-      "url": "https://36kr.com/newsflashes/3924551743617416?f=rss"
-    },
-    {
-      "id": "36氪--cifcmf",
-      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T00:18:04.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪卸任万达产业投资公司董事 TOP3大新闻 宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英 据天眼查显示，7月31日，杭州天杞优品食品有限公司成立，注册资本为300万元，经营范围包含互联网销售、食品进出口、食品销售等。该公司由浙江三捷投资管理有限公司、百瑞源枸杞股份有限公司共同持股。股权穿透显示，杜建英为该公司实际控制人，宗继昌任公司董事长、经理、法定代表人。 2025年7月，宗继昌与宗婕莉、宗继盛三人起诉宗馥莉，三位原告被律师确认为宗馥莉的“同父异母兄弟姐妹”，寻求阻止宗馥莉处置汇丰银行账户资产，并追讨其父宗庆后生前承诺的21亿美元信托权益。（每日经济新闻、金融界） 美国制裁洽洽瓜子、思念水饺等中国企业 美国国土安全部牵头的相关工作组更新了对中国企业的进口限制清单，将在美国当地时间8月3日生效。包括洽洽食品、思念食品、七匹狼等在内的多家中国企业纳入限制范围，对其生产的相关产品进入美国市场实施进口限制。这意味着，曾经摆上美国消费者餐桌的瓜子、饺子、汤圆等中国食品，以及进入全球市场多年的中国服装品牌，都面临更高的贸易准入门槛。（新华社） DeepSeek-V4-Flash登顶全球调用量榜单第一 《每日经济新闻》根据OpenRouter最新数据测算，上周（7月27日至8月2日）全球AI大模型总调用量为56.8万亿Token，环比下滑2.07%。其中，上榜的AI大模型中，中国AI大模型周调用量达28.13万亿Token，环比下滑14.76%；同期美国AI大模型周调用量为4.38万亿Token，环比增长87.18%。中国大模型周调用量连续十四周超过美国，稳居全球首位。 上周，全球调用量排名前五均为中国AI大模型。其中，DeepSeek-V4-Flash升至第一，周调用量达7.22万亿Token，环比增长13%；小米MiMo-V2.5位居第二，周调用量达6.3万亿Token，环比下滑40%；腾讯Hy3位居第三，周调用量达4.82万亿Token，环比增长22%；DeepSeek-V4-Pro升至第四，周调用量达3.28万亿Token，环比增长3%；智谱GLM-5.2位居第五，周调用量达2.89万亿Token，环比下滑12%。（每日经济新闻） AI最前沿 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 OpenAI当地时间8月1日发布有关数学和理论计算机科学的十项突破，这些成果由其下一代主要模型Astra的内部版本实现。按照Sol API的费率计算，找到这些问题的解决方案所需总词元（tokens）成本约为2000美元。十项突破涵盖高维球体堆积密度上限、二进制与球面码界限提升、非纯索菲群存在性证明、康涅斯刚性猜想的推翻、算术电路复杂性新下界、量子平行重复定理、最近向量问题的多项式因子近似难度证明、埃尔哈特体积猜想、多色拉姆齐数的超指数下界，以及极值数猜想等。（界面新闻） MiniMax H3正式开源 36氪获悉，MiniMax正式开源新一代通用视频模型MiniMax H3。MiniMax H3是一个通用型全模态生成系统。它能够统一理解由文本、图像、视频和音频构成的多模态上下文，并可生成最高2K分辨率、最长15秒、带有原生立体声音频的视频。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "大模型",
-        "Agent",
-        "多模态"
-      ],
-      "url": "https://36kr.com/p/3924467692927369?f=rss"
-    },
-    {
-      "id": "TechCrunch AI--gdd2gd",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T23:19:50.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises. 这篇内容重点围绕“After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
-    },
-    {
-      "id": "TechCrunch AI--1g2yvv",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T20:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
-    },
-    {
-      "id": "TechCrunch AI--ox87uz",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T19:28:57.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs. 这篇内容重点围绕“Design Arena creators raise $7.9 million to bring taste to AI models”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
-    },
-    {
-      "id": "TechCrunch AI-j5yhuo",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T19:09:56.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue. 这篇内容重点围绕“Influencers draw backlash for attending OpenAI’s first luxury trip”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
-    },
-    {
-      "id": "TechCrunch AI--olowu8",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T18:43:43.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
-    },
-    {
-      "id": "MIT Technology Review-mvo1ay",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-03T18:43:30.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
-    },
-    {
-      "id": "TechCrunch AI--8f1e0p",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T16:40:55.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications. 这篇内容重点围绕“Congress’ favorite AI tool? ChatGPT”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
-    },
-    {
-      "id": "MIT Technology Review-izdtq4",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-03T12:08:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to OpenAI, the models decided to solve a cybersecurity exercise by hacking out of the environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
-    },
-    {
-      "id": "36氪-ka86fy",
-      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T11:39:13.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。 圆桌嘉宾： 刘士武丨36氪游戏主编（主持） 吴同丨Funloom AI CEO 艾文丨阿里云智能集团公共云AI原生事业部副总经理 罗小我丨VAST战略负责人 杨晟丨珀乐互动科技创始人 从实验到产线——AI 工作流的规模化挑战与协作生态 以下为圆桌对话内容，经36氪整理编辑： 刘士武： 大家好！我是本场圆桌的主持人，36氪游戏主编刘士武，我们今天的圆桌主题是从实验到产线，AI工作流的规模化挑战与协作生态。我们今天圆桌四位嘉宾，Funloom AI的吴同老师、阿里云的艾文老师、VAST罗小我老师以及珀乐互动的杨晟老师，其实四位分别代表AI产线上不同的角色以及在发力不同方向。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "大模型",
-        "Agent",
-        "开源模型"
-      ],
-      "url": "https://36kr.com/p/3923717502072969?f=rss"
-    },
-    {
-      "id": "TechCrunch AI--h42r4y",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-03T10:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler. 这篇内容重点围绕“A Marc Benioff-backed startup thinks AI can solve the AI deployment problem”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
-    },
-    {
-      "id": "36氪-n2uuc2",
-      "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T09:44:31.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "图片1 今日A股收盘数据 上证指数：3809.66 点，-0.59% 深证成指：13448.29 点，-0.96% 创业板指：3302.55 点，-1.24% 德明利8月3日下跌9.56% 349.00 -36.90 -9.56% 当日开盘价373.94；交易量27.21万手； 换手率16.49%；缩量幅度0.36% 3日涨幅-1.57%；5日涨幅-13.10% 成交额：97.75亿；总市值：791.69亿 对于投资者来说，真正有价值的并不是股价下跌之后再去复盘，而是在市场情绪变化时，第一时间发现值得关注的信号。 这正是36氪企业全情报持续监测企业动态和舆情变化的价值所在。 更多德明利相关股价信息点击进入小程序查看 股价异动前，企业全情报已捕捉到市场关注事件 财联社7月31日消息，有投资者询问，网传德明利第五大股东李东璘近期爆仓致股价大跌是否属实，还问及公司高管是否履职尽责保护投资者，以及公司有无回购计划。德明利在互动平台回应，前十大股东信息会按规则在定期报告披露，5%以下股东个人股份处:置及融资事宜属股东自身事务，非公司法定披露范畴。公司保持与投资者沟通畅通，将结合自身情况审慎评估举措，后续若涉及相关事项，会按规定及时披露信息。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
-        "融资"
-      ],
-      "url": "https://36kr.com/p/3923603053686151?f=rss"
-    },
-    {
-      "id": "MIT Technology Review-a8x8ny",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-03T08:30:05.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-    },
-    {
-      "id": "36氪-1o31jq",
-      "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T08:12:09.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。 这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？ 围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/p/3923465542364545?f=rss"
-    },
-    {
-      "id": "36氪-eh4dh5",
-      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T05:43:36.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cadence中国区首席技术官、国家专用集成电路系统工程技术研究中心香港分中心副主任，在美国和中国的半导体行业都有着丰富资源与技术积淀。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
-        "大模型",
-        "算力",
-        "融资"
-      ],
-      "url": "https://36kr.com/p/3923374038265217?f=rss"
-    },
-    {
-      "id": "36氪-vick5j",
-      "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T05:36:21.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "文｜张子怡 编辑｜袁斯来 从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。 36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从大疆拆分独立运营。 过去三年，欧洲Ebike市场受困于高库存压力，不少整车品牌商出现过倒闭潮，市场增速显著放缓，库存去化一年又一年。但Amflow和Avinox仍然在这种惨淡中入场。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/p/3923367465266824?f=rss"
-    },
-    {
-      "id": "36氪--6hxl4",
-      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T00:10:16.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。 “ 今天，Agent已经像能力出众的个体，但它们还没有真正进入组织 ，”薛传奕介绍道。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "大模型",
-        "Agent",
-        "融资"
-      ],
-      "url": "https://36kr.com/p/3919025939246727?f=rss"
-    },
-    {
-      "id": "36氪--2225e6",
-      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-      "source": "36氪",
-      "publishedAt": "2026-08-03T00:07:39.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。 此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网） 瑞幸回应员工对嘴喷奶油：涉及物料已废弃 8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞幸就此向界面新闻回应称，“公司对此事高度重视并第一时间进行内部调查。经核查，视频中两位伙伴使用当日门店打烊后废弃的奶油物料进行拍摄。该行为严重违反相关管理规范，公司将严肃处理。拍摄中涉及的奶油物料和奶油枪已废弃。”瑞幸表示，瑞幸咖啡始终将食品安全及用户体验放在首位，也将持续在全国门店加强人员培训，为消费者提供更安心、更高品质的产品。（界面新闻） IF椰子水市值从126亿暴跌到16亿 7月31日晚，“椰子水第一股”IFBH（06603.HK）发布最新盈利警告：预计2026年上半年，净利润同比暴跌65%至75%，收入同比下滑40%至50%。值得注意的是，这家公司才上市一年出头。2025年6月30日，IFBH顶着“椰子水第一股”的称号登陆港交所，发行价27.8港元，开盘即高开57.9%，市值一度冲到126.8亿港元。它当时最出圈的标签不是产品本身，而是“46个人撑起百亿市值”，轻资产模式被讲成了一个近乎完美的资本故事。（红星资本局） AI最前沿 每月10万美元，特朗普“真实社交”售卖“优先访问权” 当地时间8月1日，美国总统特朗普旗下社交平台Truth Social宣布推出“Truth API”服务，向华尔街交易机构收费提供特朗普帖文的高速访问渠道，引发有关内幕交易、利益冲突及利用公职谋利的质疑。该服务收费最高达每月10万美元，主要面向高频交易公司。由于特朗普经常通过Truth Social发布涉及关税、战争、央行等重大政策的信息，相关内容往往会引发市场波动。批评人士认为，付费用户虽然不是提前获知信息，但凭借更快的数据接口和自动交易系统，可能比普通投资者更早做出反应。此外，特朗普近期频繁在社交媒体上提及上市公司，相关言论也曾推动Palantir、英特尔等公司股价上涨。（央视财经） DeepSeek-V4-Flash正式版API上线公测后，马斯克关注DeepSeek官方账号 7月31日，DeepSeek通过API文档发布日志，宣布DeepSeek-V4-Flash正式版API上线公测，凭借超高性价比再次引爆AI圈。8月1日，关注科技公司CEO和高管动态的账号BigTechAlert发布提醒消息，埃隆·马斯克关注了DeepSeek的X账号。值得一提的是，马斯克当地时间7月23日在接受英国《经济学人》专访时表示，中国在机器人和AI领域实力雄厚，未来“很有可能在某个时候成为领导者”。（IT之家） 谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息 谷歌推出谷歌地球（Google Earth）人工智能（AI）图像生成功能不到48小时后，宣布暂停服务，以加强安全防护。专家此前警告，这项工具可把虚构场景叠加在真实卫星图像上，容易被用于散播假信息。 (澎湃新闻) OpenAI或将IPO推迟到明年 由于面临投资者担忧与竞争压力，OpenAI可能会将其IPO推迟到明年。参与相关讨论的人士透露，近几个月来，OpenAI的一些大投资者已私下对这家初创公司相对于其增长的现金消耗速度过快表示担忧，而其他投资者则通过向Anthropic投入资金来对冲他们对OpenAI的押注。与此同时，Anthropic的营收增长近期已超过OpenAI，其估值也是如此。据知情人士透露，Anthropic正在加速秋季IPO的计划，并已开始与潜在投资者会面，强调其相对于ChatGPT制造商所保持的领先优势。而最初希望抢在Anthropic之前上市，OpenAI现在可能会等到明年再IPO。（新浪财经） 大公司/大事件 SpaceX首份财报即将发布 SpaceX将近日发布季报，这是该公司上市后的首份财报，同时8月6日还有最多9.115亿股解禁，比当前的流通股还要多。据财联社，S3 Partners的数据显示，截至7月29日，SpaceX空头持仓量已达到2.193亿股，约占该公司可供公众交易股票总量的34%。这显示出空头正在押注SpaceX财报给不出能抵消股票解禁压力的利好。自6月12日以135美元的IPO定价上市以来，SpaceX最高曾冲到过200美元上方，但本周五收盘时已经跌破110美元。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
+        "多模态",
         "融资",
         "机器人"
       ],
-      "url": "https://36kr.com/p/3923043072634498?f=rss"
+      "url": "https://36kr.com/p/3926003098843272?f=rss"
     },
     {
-      "id": "TechCrunch AI-z0j05r",
-      "title": "Sam Altman and AI’s decel debate",
+      "id": "36氪-kxrzwq",
+      "title": "Qwen-Image-3.0上线千问AI平台",
+      "source": "36氪",
+      "publishedAt": "2026-08-05T02:15:19.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "36氪获悉，据阿里云消息，阿里巴巴千问图像生成模型Qwen-Image-3.0正式上线千问AI平台，面向所有用户全部开放。旗舰版Qwen-Image-3.0-Pro与标准版Qwen-Image-3.0-Standard同时开放API，文生图0.18元/张起。API已在千问AI平台上线，海外用户可通过Qwen Cloud接入。 这篇内容重点围绕“Qwen-Image-3.0上线千问AI平台”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3926001579980936?f=rss"
+    },
+    {
+      "id": "36氪--ec4so",
+      "title": "韩国三星电子和SK海力士正在评估中国中微半导体的芯片制造设备",
+      "source": "36氪",
+      "publishedAt": "2026-08-05T02:13:54.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "这条资讯来自36氪，主题是“韩国三星电子和SK海力士正在评估中国中微半导体的芯片制造设备”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3926000181213315?f=rss"
+    },
+    {
+      "id": "36氪--ufj6bn",
+      "title": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+      "source": "36氪",
+      "publishedAt": "2026-08-05T01:50:58.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。 这篇内容重点围绕“京东：开源实时流式视频编辑模型JoyAI-Video-Edit”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3925977640777857?f=rss"
+    },
+    {
+      "id": "36氪--ung1uj",
+      "title": "A股三大指数全线翻红",
+      "source": "36氪",
+      "publishedAt": "2026-08-05T01:49:27.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "这条资讯来自36氪，主题是“A股三大指数全线翻红”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "国内 AI"
+      ],
+      "url": "https://36kr.com/newsflashes/3925976152963457?f=rss"
+    },
+    {
+      "id": "36氪-x0mks0",
+      "title": "8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供",
+      "source": "36氪",
+      "publishedAt": "2026-08-05T00:02:59.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "今日热点导览 一架上海飞东京航班险撞机，两机垂直高度差仅约20米 阿里云容器服务Agent开启商业化收费 今年以来港股IPO数量同比增长132%，科技类公司占比过半 苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队 SpaceX上市后首份财报前夕，“木头姐”持续加仓 TOP3大新闻 马斯克个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋” 据微信公众号“福布斯”消息，6月12日SpaceX上市，马斯克成为全球首位万亿富豪。但他13位数字的身家并未维保持多久——SpaceX的股价此前一路飞升，如今却跌回地表，马斯克在7月单月财富缩水3630亿美元（约合人民币2.45万亿元），创下纪录。这一缩水幅度，甚至超过了全球第2至第10大富豪中任何一人的全部身家，是英伟达CEO黄仁勋身家（1740亿美元）的两倍多。截至美国东部时间8月1日零点，排名第2的拉里·佩奇身家微增10亿美元，约为2920亿美元；而马斯克的身家约为6900亿美元，降至去年12月以来的最低水平。（红星新闻） 上海雪花膏母公司破产，财产不足以支付破产费 近日，上海市浦东新区人民法院出具（2024）沪0115破151号民事裁定书，宣告上海美兰化妆品有限公司（以下简称“美兰”）破产并终结清算程序。裁定书援引《企业破产法》第四十三条认为，企业现有财产不足以支付破产费用，管理人提请法院直接终止清算，普通债权人无财产可分配。 据裁定书配套管理人清算数据，美兰可处置资产仅9.58万元，法院确认债权总额1941.67万元，账面资产连诉讼费、管理人报酬等基础办案成本都无法覆盖。这家诞生于1984年、依靠老上海雪花膏走红的本土老牌日化企业彻底退场。（红星新闻） 受地震影响，日本半导体或面临断供 7月28日，日本熊本县发生强震，多家半导体相关企业停产至今。九州地区因聚集大量半导体相关企业被称为“硅岛”，熊本县自1970年前后开始吸引半导体企业落户，逐步发展成为日本重要的半导体产业基地。 熊本县内聚集着大量半导体相关企业和汽车工厂，有专家表示强震将给相关产业带来严重冲击。不仅是半导体，受零部件供应延迟影响，日本部分汽车制造商的生产也已受到波及。丰田汽车已决定暂停福冈县3家工厂的生产至8月5日，位于爱知县的田原工厂也将于8月3日至7日停产。本田宣布，熊本县大津町的摩托车工厂将停产至8月7日。日产汽车则决定，将福冈县两家工厂的部分生产线停工至8月5日。（金融界、央视网） AI最前沿 面壁智能开源全球首个Stencil优化AI系统 36氪获悉，8月4日，面壁智能联合OpenBMB开源社区正式发布并开源全球首个Stencil（模板计算）优化“自动研究+自动部署”大闭环AI系统ForgeStencil。实测数据显示，ForgeStencil在同精度（fp32）下几何平均加速2.35倍，混合精度下额外提速1.95倍。在真实应用场景中，通用CAE求解器hypre加速3.86倍，电磁仿真FDTD加速2.47倍，核反应堆中子学计算minisweep加速最高达5.78倍。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "Agent",
+        "融资",
+        "机器人"
+      ],
+      "url": "https://36kr.com/p/3925868626360706?f=rss"
+    },
+    {
+      "id": "TechCrunch AI-yy0r34",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-02T20:54:22.000Z",
+      "publishedAt": "2026-08-04T21:07:26.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\" 这篇内容重点围绕“Sam Altman and AI’s decel debate”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are. 这篇内容重点围绕“SpaceX has bought $329M worth of Tesla Megapacks so far this year”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
       ],
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
     },
     {
-      "id": "TechCrunch AI-b6dbky",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "id": "TechCrunch AI-vlcvs",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-01T20:26:04.000Z",
+      "publishedAt": "2026-08-04T20:05:26.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward. 这篇内容重点围绕“Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards. 这篇内容重点围绕“Open-weight AI models are catching up to the frontier. The safety gap remains.”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+    },
+    {
+      "id": "TechCrunch AI--jy2h4t",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T19:48:40.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta. 这篇内容重点围绕“Anthropic signs $10B deal with AI cloud startup Volta”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+    },
+    {
+      "id": "TechCrunch AI-l0g7ro",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T19:34:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories. 这篇内容重点围绕“Meet Wrinkles, an app that uncovers the hidden stories of the places around you”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
       ],
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+    },
+    {
+      "id": "TechCrunch AI--bvpzmq",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T19:28:49.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents. 这篇内容重点围绕“Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+    },
+    {
+      "id": "TechCrunch AI--eqgfor",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T15:50:06.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
+    },
+    {
+      "id": "36氪-hhxb6q",
+      "title": "“车企牌”电池相继上车，不只是PK宁德时代",
+      "source": "36氪",
+      "publishedAt": "2026-08-04T15:46:22.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。 车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。 这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "国内 AI",
+        "推理"
+      ],
+      "url": "https://36kr.com/p/3925382191708552?f=rss"
+    },
+    {
+      "id": "TechCrunch AI-1uvqm1",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T15:42:35.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+    },
+    {
+      "id": "TechCrunch AI--fc4647",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T15:20:06.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business. 这篇内容重点围绕“Elon Musk spends half his time talking robots and AI on Tesla earnings calls”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
+    },
+    {
+      "id": "TechCrunch AI-592kf3",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T14:03:01.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+    },
+    {
+      "id": "Hugging Face--4xh7zv",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-04T13:58:29.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Deploy local agents everywhere with LFM2.5-2.6B”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+    },
+    {
+      "id": "Google AI Blog-n7appj",
+      "title": "The latest AI news we announced in July 2026",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "category": "研究与产品",
+      "region": "全球",
+      "summary": "这条资讯来自Google AI Blog，主题是“The latest AI news we announced in July 2026”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "研究与产品"
+      ],
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+    },
+    {
+      "id": "TechCrunch AI--1rkwha",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod. 这篇内容重点围绕“Is the future of data centers portable? Runware builds a pod to find out”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
+    },
+    {
+      "id": "MIT Technology Review--kbjttd",
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-04T12:14:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+    },
+    {
+      "id": "TechCrunch AI--i0qkmz",
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built. 这篇内容重点围绕“EON wants to move the data superhighway from ocean fiber to space lasers”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
+    },
+    {
+      "id": "36氪-54yvv5",
+      "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+      "source": "36氪",
+      "publishedAt": "2026-08-04T10:27:21.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。 具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。 由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "国内 AI",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3925067918227591?f=rss"
+    },
+    {
+      "id": "36氪-9i1v8v",
+      "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+      "source": "36氪",
+      "publishedAt": "2026-08-04T08:31:59.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限。巨头的选择已经给出答案——英特尔宣布玻璃芯基板（GCS）进入大规模量产，台积电CoPoS试产线年内通线，三星、SKC Absolics加速送样与量产准备。玻璃基板，正在从巨头的实验室走向产业的中心。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "国内 AI",
+        "算力",
+        "融资"
+      ],
+      "url": "https://36kr.com/p/3924953058605444?f=rss"
+    },
+    {
+      "id": "36氪-8hx9p7",
+      "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+      "source": "36氪",
+      "publishedAt": "2026-08-04T08:18:21.000Z",
+      "category": "国内 AI",
+      "region": "国内",
+      "summary": "36氪企业全情报带你发现涨停背后的机会 开篇，先给大家送个福利 最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。 体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。 奖品有影石Insta360 Luna Ultra、运动相机挂脖支架、36氪航天徽章。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "国内 AI",
+        "算力"
+      ],
+      "url": "https://36kr.com/p/3924913931679877?f=rss"
     }
   ]
 }
