@@ -1,95 +1,149 @@
 {
-  "updatedAt": "2026-08-05T02:52:54.292Z",
+  "updatedAt": "2026-08-06T02:56:20.298Z",
   "items": [
     {
-      "id": "36氪-skv64v",
-      "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T02:17:16.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，AI智能硬件与机器人企业「若创科技」（英文名：Strutt）近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。 本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道建设，以及首款个人智能出行机器人EV1的规模化生产和交付。同时，公司正式启用中文品牌“昂首”，首款个人出行机器人在中国市场的官方命名为“昂首EV1”，计划于2026年下半年启动中国市场业务，目前已开放首批试驾报名。 若创科技成立于2023年，总部位于新加坡，研发与供应链基地位于中国大湾区。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "国内 AI",
-        "多模态",
-        "融资",
-        "机器人"
-      ],
-      "url": "https://36kr.com/p/3926003098843272?f=rss"
-    },
-    {
-      "id": "36氪-kxrzwq",
-      "title": "Qwen-Image-3.0上线千问AI平台",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T02:15:19.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "36氪获悉，据阿里云消息，阿里巴巴千问图像生成模型Qwen-Image-3.0正式上线千问AI平台，面向所有用户全部开放。旗舰版Qwen-Image-3.0-Pro与标准版Qwen-Image-3.0-Standard同时开放API，文生图0.18元/张起。API已在千问AI平台上线，海外用户可通过Qwen Cloud接入。 这篇内容重点围绕“Qwen-Image-3.0上线千问AI平台”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/newsflashes/3926001579980936?f=rss"
-    },
-    {
-      "id": "36氪--ec4so",
-      "title": "韩国三星电子和SK海力士正在评估中国中微半导体的芯片制造设备",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T02:13:54.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "这条资讯来自36氪，主题是“韩国三星电子和SK海力士正在评估中国中微半导体的芯片制造设备”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/newsflashes/3926000181213315?f=rss"
-    },
-    {
-      "id": "36氪--ufj6bn",
-      "title": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T01:50:58.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。 这篇内容重点围绕“京东：开源实时流式视频编辑模型JoyAI-Video-Edit”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/newsflashes/3925977640777857?f=rss"
-    },
-    {
-      "id": "36氪--ung1uj",
-      "title": "A股三大指数全线翻红",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T01:49:27.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "这条资讯来自36氪，主题是“A股三大指数全线翻红”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自36氪的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "国内 AI"
-      ],
-      "url": "https://36kr.com/newsflashes/3925976152963457?f=rss"
-    },
-    {
-      "id": "36氪-x0mks0",
-      "title": "8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T00:02:59.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "今日热点导览 一架上海飞东京航班险撞机，两机垂直高度差仅约20米 阿里云容器服务Agent开启商业化收费 今年以来港股IPO数量同比增长132%，科技类公司占比过半 苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队 SpaceX上市后首份财报前夕，“木头姐”持续加仓 TOP3大新闻 马斯克个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋” 据微信公众号“福布斯”消息，6月12日SpaceX上市，马斯克成为全球首位万亿富豪。但他13位数字的身家并未维保持多久——SpaceX的股价此前一路飞升，如今却跌回地表，马斯克在7月单月财富缩水3630亿美元（约合人民币2.45万亿元），创下纪录。这一缩水幅度，甚至超过了全球第2至第10大富豪中任何一人的全部身家，是英伟达CEO黄仁勋身家（1740亿美元）的两倍多。截至美国东部时间8月1日零点，排名第2的拉里·佩奇身家微增10亿美元，约为2920亿美元；而马斯克的身家约为6900亿美元，降至去年12月以来的最低水平。（红星新闻） 上海雪花膏母公司破产，财产不足以支付破产费 近日，上海市浦东新区人民法院出具（2024）沪0115破151号民事裁定书，宣告上海美兰化妆品有限公司（以下简称“美兰”）破产并终结清算程序。裁定书援引《企业破产法》第四十三条认为，企业现有财产不足以支付破产费用，管理人提请法院直接终止清算，普通债权人无财产可分配。 据裁定书配套管理人清算数据，美兰可处置资产仅9.58万元，法院确认债权总额1941.67万元，账面资产连诉讼费、管理人报酬等基础办案成本都无法覆盖。这家诞生于1984年、依靠老上海雪花膏走红的本土老牌日化企业彻底退场。（红星新闻） 受地震影响，日本半导体或面临断供 7月28日，日本熊本县发生强震，多家半导体相关企业停产至今。九州地区因聚集大量半导体相关企业被称为“硅岛”，熊本县自1970年前后开始吸引半导体企业落户，逐步发展成为日本重要的半导体产业基地。 熊本县内聚集着大量半导体相关企业和汽车工厂，有专家表示强震将给相关产业带来严重冲击。不仅是半导体，受零部件供应延迟影响，日本部分汽车制造商的生产也已受到波及。丰田汽车已决定暂停福冈县3家工厂的生产至8月5日，位于爱知县的田原工厂也将于8月3日至7日停产。本田宣布，熊本县大津町的摩托车工厂将停产至8月7日。日产汽车则决定，将福冈县两家工厂的部分生产线停工至8月5日。（金融界、央视网） AI最前沿 面壁智能开源全球首个Stencil优化AI系统 36氪获悉，8月4日，面壁智能联合OpenBMB开源社区正式发布并开源全球首个Stencil（模板计算）优化“自动研究+自动部署”大闭环AI系统ForgeStencil。实测数据显示，ForgeStencil在同精度（fp32）下几何平均加速2.35倍，混合精度下额外提速1.95倍。在真实应用场景中，通用CAE求解器hypre加速3.86倍，电磁仿真FDTD加速2.47倍，核反应堆中子学计算minisweep加速最高达5.78倍。",
+      "id": "TechCrunch AI-c9mfvy",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T21:21:28.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. 这篇内容重点围绕“Meta launches Muse Code, an AI agent for large code bases”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
-        "国内 AI",
-        "Agent",
-        "融资",
-        "机器人"
+        "公司与产品",
+        "Agent"
       ],
-      "url": "https://36kr.com/p/3925868626360706?f=rss"
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+    },
+    {
+      "id": "TechCrunch AI-km7obd",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T20:05:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents. 这篇内容重点围绕“Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
+    },
+    {
+      "id": "TechCrunch AI-ae352a",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T19:30:19.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery. 这篇内容重点围绕“Jeff Dean and other top AI researchers are leaving Google to launch their own startup”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+    },
+    {
+      "id": "TechCrunch AI--j7nub5",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T15:56:14.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+    },
+    {
+      "id": "TechCrunch AI-jjy6py",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T15:46:27.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Hark previews its browser use agent for completing tasks”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
+    },
+    {
+      "id": "TechCrunch AI-gjyf9v",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T15:05:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two. 这篇内容重点围绕“TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
+    },
+    {
+      "id": "TechCrunch AI--z5qmjn",
+      "title": "Anthropic is hiring an AI chip design team",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T14:13:18.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+    },
+    {
+      "id": "TechCrunch AI-43s4et",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T12:28:38.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. 这篇内容重点围绕“MacPaw taps Liquid AI to offer on-device inference to devs building for its app store”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
+    },
+    {
+      "id": "MIT Technology Review-q217xi",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-05T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
+    },
+    {
+      "id": "TechCrunch AI--kig8bf",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-05T11:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts. 这篇内容重点围绕“AI makes weather prediction better. Can WindBorne make it lucrative?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
     },
     {
       "id": "TechCrunch AI-yy0r34",
@@ -177,21 +231,6 @@
       "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
     },
     {
-      "id": "36氪-hhxb6q",
-      "title": "“车企牌”电池相继上车，不只是PK宁德时代",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T15:46:22.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。 车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。 这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "国内 AI",
-        "推理"
-      ],
-      "url": "https://36kr.com/p/3925382191708552?f=rss"
-    },
-    {
       "id": "TechCrunch AI-1uvqm1",
       "title": "Texas halts new data centers as governor calls for audits",
       "source": "TechCrunch AI",
@@ -277,8 +316,8 @@
       "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
     },
     {
-      "id": "MIT Technology Review--kbjttd",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "id": "MIT Technology Review--ctd3d5",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "source": "MIT Technology Review",
       "publishedAt": "2026-08-04T12:14:00.000Z",
       "category": "行业观察",
@@ -304,52 +343,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
-    },
-    {
-      "id": "36氪-54yvv5",
-      "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T10:27:21.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。 具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。 由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "国内 AI",
-        "融资"
-      ],
-      "url": "https://36kr.com/p/3925067918227591?f=rss"
-    },
-    {
-      "id": "36氪-9i1v8v",
-      "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T08:31:59.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下， 国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。 股东结构：市场化资本、产业资本、区域国资同席，老股东再投票 这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。 行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口 这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限。巨头的选择已经给出答案——英特尔宣布玻璃芯基板（GCS）进入大规模量产，台积电CoPoS试产线年内通线，三星、SKC Absolics加速送样与量产准备。玻璃基板，正在从巨头的实验室走向产业的中心。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "国内 AI",
-        "算力",
-        "融资"
-      ],
-      "url": "https://36kr.com/p/3924953058605444?f=rss"
-    },
-    {
-      "id": "36氪-8hx9p7",
-      "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
-      "source": "36氪",
-      "publishedAt": "2026-08-04T08:18:21.000Z",
-      "category": "国内 AI",
-      "region": "国内",
-      "summary": "36氪企业全情报带你发现涨停背后的机会 开篇，先给大家送个福利 最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。 体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。 奖品有影石Insta360 Luna Ultra、运动相机挂脖支架、36氪航天徽章。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "国内 AI",
-        "算力"
-      ],
-      "url": "https://36kr.com/p/3924913931679877?f=rss"
     }
   ]
 }
