@@ -1,6 +1,176 @@
 {
-  "updatedAt": "2026-08-06T02:56:20.298Z",
+  "updatedAt": "2026-08-07T02:52:38.001Z",
   "items": [
+    {
+      "id": "TechCrunch AI--lnujr9",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T22:43:53.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker. 这篇内容重点围绕“OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+    },
+    {
+      "id": "TechCrunch AI-skbtqq",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T17:34:42.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries. 这篇内容重点围绕“ChatGPT brings unlimited text chats to free users”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+    },
+    {
+      "id": "TechCrunch AI--z4rh5t",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T17:00:37.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business. 这篇内容重点围绕“Naïve raises $28.5M to automate the grunt work of setting up and running a company”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+    },
+    {
+      "id": "TechCrunch AI-kiq9e1",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T15:53:03.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker. 这篇内容重点围绕“Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
+    },
+    {
+      "id": "TechCrunch AI--iye89e",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T15:10:32.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected. 这篇内容重点围绕“OpenAI says Apple’s own security practices undermine its trade secrets case”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
+    },
+    {
+      "id": "TechCrunch AI--pp79b7",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:31:57.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts. 这篇内容重点围绕“Amid legal battles, Suno says it will start watermarking songs”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
+    },
+    {
+      "id": "TechCrunch AI-sf6ti9",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time. 这篇内容重点围绕“Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
+    },
+    {
+      "id": "TechCrunch AI--vaw3vz",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development. 这篇内容重点围绕“Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+    },
+    {
+      "id": "TechCrunch AI--kejosu",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T12:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks. 这篇内容重点围绕“Google Maps adds agentic features, including food ordering and hotel bookings”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+    },
+    {
+      "id": "MIT Technology Review--pj1nwf",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-06T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+    },
+    {
+      "id": "TechCrunch AI--94qimf",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
+    },
+    {
+      "id": "Hugging Face-9iwbxp",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Baseten on Hugging Face Inference Providers 🔥”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/baseten"
+    },
     {
       "id": "TechCrunch AI-c9mfvy",
       "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -160,119 +330,6 @@
       "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
     },
     {
-      "id": "TechCrunch AI-vlcvs",
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T20:05:26.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards. 这篇内容重点围绕“Open-weight AI models are catching up to the frontier. The safety gap remains.”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
-    },
-    {
-      "id": "TechCrunch AI--jy2h4t",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:48:40.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta. 这篇内容重点围绕“Anthropic signs $10B deal with AI cloud startup Volta”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
-    },
-    {
-      "id": "TechCrunch AI-l0g7ro",
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:34:34.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories. 这篇内容重点围绕“Meet Wrinkles, an app that uncovers the hidden stories of the places around you”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
-    },
-    {
-      "id": "TechCrunch AI--bvpzmq",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:28:49.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents. 这篇内容重点围绕“Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
-    },
-    {
-      "id": "TechCrunch AI--eqgfor",
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T15:50:06.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
-    },
-    {
-      "id": "TechCrunch AI-1uvqm1",
-      "title": "Texas halts new data centers as governor calls for audits",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T15:42:35.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
-    },
-    {
-      "id": "TechCrunch AI--fc4647",
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T15:20:06.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business. 这篇内容重点围绕“Elon Musk spends half his time talking robots and AI on Tesla earnings calls”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
-    },
-    {
-      "id": "TechCrunch AI-592kf3",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T14:03:01.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
-    },
-    {
       "id": "Hugging Face--4xh7zv",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "source": "Hugging Face",
@@ -286,63 +343,6 @@
         "Agent"
       ],
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
-    },
-    {
-      "id": "Google AI Blog-n7appj",
-      "title": "The latest AI news we announced in July 2026",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "这条资讯来自Google AI Blog，主题是“The latest AI news we announced in July 2026”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
-    },
-    {
-      "id": "TechCrunch AI--1rkwha",
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod. 这篇内容重点围绕“Is the future of data centers portable? Runware builds a pod to find out”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
-    },
-    {
-      "id": "MIT Technology Review--ctd3d5",
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-04T12:14:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
-    },
-    {
-      "id": "TechCrunch AI--i0qkmz",
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T12:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built. 这篇内容重点围绕“EON wants to move the data superhighway from ocean fiber to space lasers”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
     }
   ]
 }
