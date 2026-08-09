@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-08-08T01:56:54.570Z",
+  "updatedAt": "2026-08-09T02:04:33.935Z",
   "items": [
+    {
+      "id": "TechCrunch AI--jbv5fr",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-08T21:24:02.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. 这篇内容重点围绕“Planned Amazon data center could become the biggest climate polluter in the U.S.”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+    },
+    {
+      "id": "TechCrunch AI-y7tvre",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“OpenAI acquires presentation startup NextSlide”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    },
     {
       "id": "TechCrunch AI-3ixvaf",
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -313,35 +341,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
-    },
-    {
-      "id": "TechCrunch AI-km7obd",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T20:05:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents. 这篇内容重点围绕“Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
-    },
-    {
-      "id": "TechCrunch AI-ae352a",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T19:30:19.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery. 这篇内容重点围绕“Jeff Dean and other top AI researchers are leaving Google to launch their own startup”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
     }
   ]
 }
