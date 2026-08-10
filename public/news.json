@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-08-09T02:04:33.935Z",
+  "updatedAt": "2026-08-10T02:08:55.102Z",
   "items": [
+    {
+      "id": "TechCrunch AI-sz76bv",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T20:35:17.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+    },
+    {
+      "id": "TechCrunch AI-l7zaux",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T19:20:32.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Anthropic is turning Claude Code’s auto mode on by default”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    },
+    {
+      "id": "TechCrunch AI-2qrqzh",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T15:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader. 这篇内容重点围绕“Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+    },
+    {
+      "id": "TechCrunch AI--ex0kup",
+      "title": "The AI safety test is becoming a safety risk",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T14:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. 这篇内容重点围绕“The AI safety test is becoming a safety risk”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+    },
     {
       "id": "TechCrunch AI--jbv5fr",
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -270,21 +327,6 @@
       "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
     },
     {
-      "id": "TechCrunch AI--kejosu",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks. 这篇内容重点围绕“Google Maps adds agentic features, including food ordering and hotel bookings”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
-    },
-    {
       "id": "MIT Technology Review--pj1nwf",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "source": "MIT Technology Review",
@@ -298,49 +340,6 @@
         "Agent"
       ],
       "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
-    },
-    {
-      "id": "TechCrunch AI--94qimf",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
-    },
-    {
-      "id": "Hugging Face-9iwbxp",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Baseten on Hugging Face Inference Providers 🔥”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/baseten"
-    },
-    {
-      "id": "TechCrunch AI-c9mfvy",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T21:21:28.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. 这篇内容重点围绕“Meta launches Muse Code, an AI agent for large code bases”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
     }
   ]
 }
