@@ -1,6 +1,209 @@
 {
-  "updatedAt": "2026-08-10T02:08:55.102Z",
+  "updatedAt": "2026-08-11T02:03:44.677Z",
   "items": [
+    {
+      "id": "TechCrunch AI--gw59c4",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T00:03:18.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“OpenAI reportedly completed a $7 billion employee tender offer”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+    },
+    {
+      "id": "TechCrunch AI--gst3b",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T23:56:15.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. 这篇内容重点围绕“As AI-led attacks multiply, OpenAI launches a new cyber model”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+    },
+    {
+      "id": "TechCrunch AI-jshlar",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T20:53:02.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. 这篇内容重点围绕“Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+    },
+    {
+      "id": "TechCrunch AI--bgd5cf",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T20:04:24.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+    },
+    {
+      "id": "MIT Technology Review-kfu529",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI researchers in the world.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+    },
+    {
+      "id": "Hugging Face-hh2yc5",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-10T16:25:36.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    {
+      "id": "TechCrunch AI--mbqcza",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T16:20:13.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access. 这篇内容重点围绕“Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+    },
+    {
+      "id": "Google AI Blog--flqvrb",
+      "title": "Evolve your marketing with new AI tools",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "category": "研究与产品",
+      "region": "全球",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow. 这篇内容重点围绕“Evolve your marketing with new AI tools”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "研究与产品",
+        "Agent"
+      ],
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+    },
+    {
+      "id": "MIT Technology Review-wtj7t3",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-10T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work at the AI Center of Schmidt Sciences In 2024, Google DeepMind scientists shared the Nobel Prize in Chemistry for a neural network, AlphaFold, which predicts the structures of proteins. It showed that AI could make groundbreaking scientific discoveries, but AlphaFold may not be the best template for accelerating science.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
+    },
+    {
+      "id": "TechCrunch AI-b4aj71",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. 这篇内容重点围绕“Discovered Materials is playing AI whack-a-mole to hunt cooler chips”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+    },
+    {
+      "id": "Hugging Face-x026jz",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-10T10:05:36.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Making Knowledge Distillation Cheap Enough to Run at Scale”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    {
+      "id": "MIT Technology Review-ttq1vx",
+      "title": "AI for science needs reasoning, not just data",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the feeling is in the air again—this time accompanied by a Nobel Prize.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
+    },
+    {
+      "id": "MIT Technology Review-7ck0tb",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new type of neural network called a transformer.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+    },
+    {
+      "id": "Hugging Face--xvsi5d",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Meta is back with Muse Glimmer: local, agentic, multimodal, and open source”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/muse-glimmer"
+    },
     {
       "id": "TechCrunch AI-sz76bv",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -50,7 +253,7 @@
       "publishedAt": "2026-08-09T14:30:00.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. 这篇内容重点围绕“The AI safety test is becoming a safety risk”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models. 这篇内容重点围绕“The AI safety test is becoming a safety risk”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
       "keywords": [
         "公司与产品",
@@ -59,13 +262,13 @@
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
     },
     {
-      "id": "TechCrunch AI--jbv5fr",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "id": "TechCrunch AI--tafobh",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-08T21:24:02.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. 这篇内容重点围绕“Planned Amazon data center could become the biggest climate polluter in the U.S.”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040. 这篇内容重点围绕“Planned Amazon data center could become the biggest climate polluter in the US”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
@@ -79,7 +282,7 @@
       "publishedAt": "2026-08-08T19:41:13.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“OpenAI acquires presentation startup NextSlide”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.” 这篇内容重点围绕“OpenAI acquires presentation startup NextSlide”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
       "keywords": [
         "公司与产品"
@@ -142,204 +345,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
-    },
-    {
-      "id": "TechCrunch AI-px2q87",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T14:22:49.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Airbnb says AI is helping it ship features faster as it tests a new search function”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
-    },
-    {
-      "id": "MIT Technology Review--wtmfju",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-07T14:20:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under the guise of combating disinformation, a sprawling constellation of government agencies, academics, civil society groups, and Big Tech platforms was suppressing conservative and populist speech online.",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
-    },
-    {
-      "id": "TechCrunch AI--pqhhkl",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light. In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer […]",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"
-    },
-    {
-      "id": "MIT Technology Review-8p9zl9",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This article was produced in partnership with Type Investigations , with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through federal agencies, gutting teams that worked on everything from scientific research to Social Security to international aid.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
-    },
-    {
-      "id": "TechCrunch AI-qpgeow",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T11:40:37.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“New Mexico court orders Meta to pay additional $567M in child safety case”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
-    },
-    {
-      "id": "TechCrunch AI--lnujr9",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T22:43:53.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker. 这篇内容重点围绕“OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
-    },
-    {
-      "id": "TechCrunch AI-skbtqq",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T17:34:42.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries. 这篇内容重点围绕“ChatGPT brings unlimited text chats to free users”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
-    },
-    {
-      "id": "TechCrunch AI--z4rh5t",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T17:00:37.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business. 这篇内容重点围绕“Naïve raises $28.5M to automate the grunt work of setting up and running a company”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
-    },
-    {
-      "id": "TechCrunch AI-kiq9e1",
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T15:53:03.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker. 这篇内容重点围绕“Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
-    },
-    {
-      "id": "TechCrunch AI--iye89e",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected. 这篇内容重点围绕“OpenAI says Apple’s own security practices undermine its trade secrets case”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
-    },
-    {
-      "id": "TechCrunch AI--pp79b7",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:31:57.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts. 这篇内容重点围绕“Amid legal battles, Suno says it will start watermarking songs”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
-    },
-    {
-      "id": "TechCrunch AI-sf6ti9",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time. 这篇内容重点围绕“Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
-    },
-    {
-      "id": "TechCrunch AI--vaw3vz",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development. 这篇内容重点围绕“Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
-      "id": "MIT Technology Review--pj1nwf",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-06T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
     }
   ]
 }
