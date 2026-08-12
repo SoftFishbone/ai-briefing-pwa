@@ -1,6 +1,161 @@
 {
-  "updatedAt": "2026-08-11T02:03:44.677Z",
+  "updatedAt": "2026-08-12T02:20:52.812Z",
   "items": [
+    {
+      "id": "TechCrunch AI--eojmp9",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T21:39:11.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment. 这篇内容重点围绕“Accel closes oversubscribed $550M India fund within weeks, 19 months after its last”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+    },
+    {
+      "id": "TechCrunch AI--43rnt0",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T19:15:35.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems. 这篇内容重点围绕“OpenAI launches ChatGPT desktop app for Linux”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
+      "id": "TechCrunch AI--pd1cdp",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T18:49:12.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+    },
+    {
+      "id": "TechCrunch AI-z7ltwb",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T17:41:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\" 这篇内容重点围绕“Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+    },
+    {
+      "id": "TechCrunch AI-2elfvp",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T17:41:22.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate. 这篇内容重点围绕“General Catalyst leads $1.1B round into 2-month-old River AI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    },
+    {
+      "id": "Google AI Blog--cr9dyq",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "category": "研究与产品",
+      "region": "全球",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings. 这篇内容重点围绕“AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "研究与产品"
+      ],
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+    },
+    {
+      "id": "TechCrunch AI-gx7mdr",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T16:25:20.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
+    },
+    {
+      "id": "Hugging Face--2qqll4",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-11T13:37:10.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Thinking of ACE? We Can Do It with Fewer Tokens”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
+    {
+      "id": "TechCrunch AI-tlijqj",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default. 这篇内容重点围绕“Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+    },
+    {
+      "id": "TechCrunch AI--ghxrjo",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T12:13:47.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well. 这篇内容重点围绕“Anthropic says it will watermark text generated by its AI models”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
+    },
+    {
+      "id": "MIT Technology Review-h6mhml",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-11T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large language model. But transformers are starting to show their age.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
+    },
     {
       "id": "TechCrunch AI--gw59c4",
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -188,163 +343,6 @@
         "Agent"
       ],
       "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
-    },
-    {
-      "id": "Hugging Face--xvsi5d",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Meta is back with Muse Glimmer: local, agentic, multimodal, and open source”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "开源",
-        "Agent"
-      ],
-      "url": "https://huggingface.co/blog/muse-glimmer"
-    },
-    {
-      "id": "TechCrunch AI-sz76bv",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-09T20:35:17.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
-    },
-    {
-      "id": "TechCrunch AI-l7zaux",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-09T19:20:32.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Anthropic is turning Claude Code’s auto mode on by default”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
-    },
-    {
-      "id": "TechCrunch AI-2qrqzh",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-09T15:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader. 这篇内容重点围绕“Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
-    },
-    {
-      "id": "TechCrunch AI--ex0kup",
-      "title": "The AI safety test is becoming a safety risk",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-09T14:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models. 这篇内容重点围绕“The AI safety test is becoming a safety risk”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
-    },
-    {
-      "id": "TechCrunch AI--tafobh",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-08T21:24:02.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040. 这篇内容重点围绕“Planned Amazon data center could become the biggest climate polluter in the US”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
-    },
-    {
-      "id": "TechCrunch AI-y7tvre",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-08T19:41:13.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.” 这篇内容重点围绕“OpenAI acquires presentation startup NextSlide”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-    },
-    {
-      "id": "TechCrunch AI-3ixvaf",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T22:48:24.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. 这篇内容重点围绕“OpenAI says it slowed Astra model development over security concerns”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-    },
-    {
-      "id": "TechCrunch AI-7tcyzf",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T21:30:11.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending. 这篇内容重点围绕“After Rippling blew millions on AI in months, it built an employee ROI tool”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
-    },
-    {
-      "id": "Hugging Face--adwqhl",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-07T17:53:32.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“TutorMoments: Do AI tutors know when to help and when to hold back?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/allenai/tutormoments"
-    },
-    {
-      "id": "TechCrunch AI-kt0xgl",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-07T16:16:09.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
     }
   ]
 }
