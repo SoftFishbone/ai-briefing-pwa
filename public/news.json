@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-08-14T02:21:10.378Z",
+  "updatedAt": "2026-08-15T01:30:47.801Z",
   "items": [
+    {
+      "id": "TechCrunch AI-y37quo",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file. 这篇内容重点围绕“Google will now allow users to remove visible watermark from its AI generations”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+    },
+    {
+      "id": "TechCrunch AI-euimul",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T15:43:28.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    },
+    {
+      "id": "TechCrunch AI--2ppmd5",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:50:11.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog. 这篇内容重点围绕“Kog is going deeper to squeeze more inference out of GPUs”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "id": "TechCrunch AI--okytq6",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:05:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers. 这篇内容重点围绕“Hyperscalers might regret embracing natural gas if new forecast proves correct”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    },
+    {
+      "id": "TechCrunch AI-qd1y60",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
+    },
+    {
+      "id": "MIT Technology Review-fy984v",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T12:17:21.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes amid a backlash over mass surveillance and reports of officers using the technology to stalk and harass current or former romantic partners.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+    },
+    {
+      "id": "MIT Technology Review--tkcn9k",
+      "title": "Job titles of the future: Space travel agent",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA. NHUNG LÊ The experiences earned him “the ear,” he says, “of the ultra-high-net-worth audience.” It also led to a life-changing phone call: In 2018, Axiom Space wanted to find three citizen explorers willing to pay $50 million each to join the first fully private mission to the International Space Station (ISS), slated for April 2022.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
+    },
+    {
+      "id": "Hugging Face--s1enog",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-14T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“State of Open Models: Summer 2026 Observations”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    },
     {
       "id": "TechCrunch AI--hbms4j",
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -227,119 +342,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
-    },
-    {
-      "id": "TechCrunch AI-q2wd3h",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T20:10:40.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
-    },
-    {
-      "id": "TechCrunch AI--fxioqu",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T18:19:12.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. 这篇内容重点围绕“AI coding startup Cognition reportedly already in talks to raise at $40B valuation”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
-    },
-    {
-      "id": "TechCrunch AI-exfj9k",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T17:51:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia. 这篇内容重点围绕“As AI safety concerns mount, three pioneers make the case for staying open”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
-    },
-    {
-      "id": "TechCrunch AI-k3ecz8",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T17:41:29.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital. 这篇内容重点围绕“OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
-      "id": "TechCrunch AI--54b8o5",
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T16:57:58.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app. 这篇内容重点围绕“Mesh, Automattic’s CRM for everyone, comes to Android”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
-    },
-    {
-      "id": "MIT Technology Review--axusgi",
-      "title": "Scaling AI agents with trustworthy data",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-12T16:51:57.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data being major blockers .",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
-    },
-    {
-      "id": "TechCrunch AI--33ersn",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T16:46:02.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/"
-    },
-    {
-      "id": "Hugging Face-hv1hfq",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-12T16:14:36.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
     }
   ]
 }
