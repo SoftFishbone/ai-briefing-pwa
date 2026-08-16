@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-15T01:30:47.801Z",
+  "updatedAt": "2026-08-16T01:39:41.853Z",
   "items": [
+    {
+      "id": "TechCrunch AI-xz28qn",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\" 这篇内容重点围绕“Woman claims her stepfather used Grok to transform childhood photo into explicit imagery”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+    },
+    {
+      "id": "TechCrunch AI-w7gmyq",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
+      "id": "TechCrunch AI-o767vq",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“SpaceX officially closes its Cursor acquisition”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
     {
       "id": "TechCrunch AI-y37quo",
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -299,49 +341,6 @@
         "行业观察"
       ],
       "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/"
-    },
-    {
-      "id": "MIT Technology Review--28jcoc",
-      "title": "How kids feel about AI, in their own words",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
-    },
-    {
-      "id": "Hugging Face-kn4uwa",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“What We Learned by Reproducing 2,200 papers from ICML”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
-    },
-    {
-      "id": "TechCrunch AI--26bozb",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T22:26:37.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
     }
   ]
 }
