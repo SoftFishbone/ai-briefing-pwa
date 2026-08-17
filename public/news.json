@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-16T01:39:41.853Z",
+  "updatedAt": "2026-08-17T01:37:35.086Z",
   "items": [
+    {
+      "id": "TechCrunch AI-sgh0u0",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16T20:57:04.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+    },
+    {
+      "id": "TechCrunch AI--fx944i",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16T20:32:01.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision. 这篇内容重点围绕“Why people aren’t buying Mark Zuckerberg’s AI future”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+    },
+    {
+      "id": "TechCrunch AI--tcb1cs",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16T16:53:51.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI. 这篇内容重点围绕“Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    },
     {
       "id": "TechCrunch AI-xz28qn",
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -299,48 +341,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
-    },
-    {
-      "id": "TechCrunch AI-y5d7ok",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T15:08:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
-    },
-    {
-      "id": "TechCrunch AI--b73azf",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T14:34:43.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ. 这篇内容重点围绕“Apple in talks to pay publishers to provide Siri with current news: report”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
-    },
-    {
-      "id": "MIT Technology Review--z350mp",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-13T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway , an independent print magazine for tweens and teens When we set out to talk to kids about AI, we thought we knew what we’d hear. We expected stories about cheating, inspiring uses, and concerns like deepfakes or job destruction.",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/"
     }
   ]
 }
