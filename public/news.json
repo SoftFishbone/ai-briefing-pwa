@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-08-22T01:27:48.177Z",
+  "updatedAt": "2026-08-23T01:41:59.170Z",
   "items": [
+    {
+      "id": "TechCrunch AI-puj87q",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. 这篇内容重点围绕“Harvard’s $699 startup bootcamp offers AI avatars of its instructors”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+    },
+    {
+      "id": "TechCrunch AI--jc0639",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. 这篇内容重点围绕“Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+    },
+    {
+      "id": "TechCrunch AI-vc5lvg",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T16:30:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. 这篇内容重点围绕“OpenAI says California should strengthen its AI safety bill”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+    },
+    {
+      "id": "TechCrunch AI-tz9k3w",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T16:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior. 这篇内容重点围绕“Frontier AI labs still won’t say how they’d contain a rogue model”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+    },
     {
       "id": "TechCrunch AI-f9p0u5",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -45,20 +102,6 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
     },
     {
-      "id": "TechCrunch AI-odwzx4",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Starcloud raises $250 million for orbital data centers as launch options dry up”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
       "id": "TechCrunch AI--58nzjl",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "source": "TechCrunch AI",
@@ -71,6 +114,20 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+    },
+    {
+      "id": "TechCrunch AI-odwzx4",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Starcloud raises $250 million for orbital data centers as launch options dry up”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
       "id": "MIT Technology Review--979j1k",
@@ -282,63 +339,6 @@
         "开源"
       ],
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-    },
-    {
-      "id": "TechCrunch AI--nbg44d",
-      "title": "Ramp launches its own AI model router, called Router",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T16:46:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API. 这篇内容重点围绕“Ramp launches its own AI model router, called Router”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
-    },
-    {
-      "id": "TechCrunch AI-emltm8",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T16:07:26.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
-    },
-    {
-      "id": "TechCrunch AI--dkzkef",
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"
-    },
-    {
-      "id": "MIT Technology Review--9xl8cr",
-      "title": "Debates over AI consciousness are a trap",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-20T15:42:39.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations and academic philosophers often aligned with the effective altruism movement, debates whether humanity holds the moral right to govern them at all. Upon closer inspection, they are all calling for the same thing: a view of AI systems as being so advanced and capable that no entity, human or corporate, could possibly be responsible for their actions.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
     }
   ]
 }
