@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-23T01:41:59.170Z",
+  "updatedAt": "2026-08-24T01:39:32.702Z",
   "items": [
+    {
+      "id": "TechCrunch AI--8g6nww",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23T20:01:36.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. 这篇内容重点围绕“Who’s behind the new ‘stealth model’ Ox Alpha?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+    },
+    {
+      "id": "TechCrunch AI--r25vzt",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23T19:14:08.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. 这篇内容重点围绕“Linkdaze’s smart calendar is built to run a household, not just track a schedule”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+    },
+    {
+      "id": "TechCrunch AI--lv68bn",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23T15:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. 这篇内容重点围绕“Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+    },
+    {
+      "id": "TechCrunch AI-408z9v",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+    },
     {
       "id": "TechCrunch AI-puj87q",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -102,20 +158,6 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
     },
     {
-      "id": "TechCrunch AI--58nzjl",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
-    },
-    {
       "id": "TechCrunch AI-odwzx4",
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "source": "TechCrunch AI",
@@ -128,6 +170,20 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "id": "TechCrunch AI--58nzjl",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
     },
     {
       "id": "MIT Technology Review--979j1k",
@@ -283,62 +339,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
-    },
-    {
-      "id": "TechCrunch AI--r25vzt",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T18:20:35.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. 这篇内容重点围绕“Linkdaze’s smart calendar is built to run a household, not just track a schedule”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
-    },
-    {
-      "id": "TechCrunch AI--a272b1",
-      "title": "Grok keeps sending gibberish responses to users",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T17:32:16.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning. 这篇内容重点围绕“Grok keeps sending gibberish responses to users”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
-    },
-    {
-      "id": "TechCrunch AI--u2rjgq",
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T17:18:58.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“A third of web pages published since ChatGPT launched were written by AI, study finds”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
-    },
-    {
-      "id": "Hugging Face--6cha7v",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-20T16:52:57.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Up to 3.2x Faster Inference with LFM2.5-DSpark”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
     }
   ]
 }
