@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-08-28T10:45:12.355Z",
+  "updatedAt": "2026-08-29T06:32:38.319Z",
   "items": [
+    {
+      "id": "TechCrunch AI--xn5918",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-28T20:24:11.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    },
+    {
+      "id": "TechCrunch AI-ipsym7",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-28T19:30:38.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance. 这篇内容重点围绕“An Anthropic researcher just gave us a peek at self-improving AI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+    },
+    {
+      "id": "TechCrunch AI-7mtqsa",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-28T18:19:40.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Open-weight AI companies are the Valley’s hottest acquisition targets”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+    },
+    {
+      "id": "TechCrunch AI-u5hlk5",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-28T12:46:12.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington. 这篇内容重点围绕“Anthropic gets its first court win over the Pentagon’s supply-chain risk label”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+    },
+    {
+      "id": "MIT Technology Review-aizowf",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-28T12:35:27.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the chance to write about—and even receive—their new rejuvenation treatment. This wasn’t just any antiaging treatment, either.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+    },
+    {
+      "id": "TechCrunch AI-ljff8b",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-28T12:21:06.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role. 这篇内容重点围绕“Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
+    },
+    {
+      "id": "Hugging Face--qegfms",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“The Open ASR Leaderboard Adds Its First Global South Language”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+    },
     {
       "id": "TechCrunch AI--5h02bh",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -36,7 +135,7 @@
       "publishedAt": "2026-08-27T19:48:13.000Z",
       "category": "行业观察",
       "region": "全球",
-      "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that it “blocks the systemic spread of aging in the bloodstream, reawakens the body’s own repair mechanism and restores health and youth to multiple tissues.” The exclusive offer to join a “private cohort” receiving access to the treatment was being “extended to a limited number of people whose judgment on the science we trust, under close physician supervision.” “There’s a long wait list including a lot of celebrities, well-known people, people who you have heard of,” Generation Lab’s CEO Alina Su told me in a conference call.",
+      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that it “blocks the systemic spread of aging in the bloodstream, reawakens the body’s own repair mechanism and restores health and youth to multiple tissues.” The exclusive offer to join a “private cohort” receiving access to the treatment was being “extended to a limited number of people whose judgment on the science we trust, under close physician supervision.” “There’s a long wait list including a lot of celebrities, well-known people, people who you have heard of,” Generation Lab’s CEO Alina Su told me in a conference call.",
       "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
       "keywords": [
         "行业观察"
@@ -241,106 +340,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
-    },
-    {
-      "id": "TechCrunch AI-zfwws1",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T19:37:34.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Google’s Gemini has a branding problem, and so does the rest of AI”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-    },
-    {
-      "id": "TechCrunch AI--h36i4d",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T19:34:04.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“How do we explain OpenAI’s executive exodus?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
-    },
-    {
-      "id": "TechCrunch AI--booxw2",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T19:05:22.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. 这篇内容重点围绕“OpenAI releases its official report on the Hugging Face breach”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
-    },
-    {
-      "id": "MIT Technology Review--dgxxx",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-26T19:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today . The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-    },
-    {
-      "id": "TechCrunch AI-5adipa",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T15:47:28.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP. 这篇内容重点围绕“Radar makes podcasts searchable — and usable by AI agents”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
-    },
-    {
-      "id": "TechCrunch AI-fc07hd",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T15:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. 这篇内容重点围绕“Ex-Meta scientists want to bring visual AI to the factory floor”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
-    },
-    {
-      "id": "TechCrunch AI-c0yjp3",
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T14:37:01.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before. 这篇内容重点围绕“Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
     }
   ]
 }
