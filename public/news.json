@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-29T06:32:38.319Z",
+  "updatedAt": "2026-08-30T04:45:21.177Z",
   "items": [
+    {
+      "id": "TechCrunch AI-wiirdm",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T18:41:59.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy. 这篇内容重点围绕“Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+    },
+    {
+      "id": "TechCrunch AI-fkubdz",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T17:36:47.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine. 这篇内容重点围绕““We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+    },
+    {
+      "id": "TechCrunch AI--tjr1xy",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles. 这篇内容重点围绕“Nvidia’s AI advantage is moving beyond the GPU”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+    },
     {
       "id": "TechCrunch AI--xn5918",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -298,48 +340,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
-    },
-    {
-      "id": "TechCrunch AI-9a3tsy",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T00:24:57.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns. 这篇内容重点围绕“Viral AI startup Instinct has raised $350M at a $2.5B valuation”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
-    },
-    {
-      "id": "TechCrunch AI-6bnfi4",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T23:47:18.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/"
-    },
-    {
-      "id": "TechCrunch AI--n60niw",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T21:37:39.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak. 这篇内容重点围绕“Anthropic continues compute-gobbling streak in $45B deal with Nscale”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
     }
   ]
 }
