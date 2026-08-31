@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-30T04:45:21.177Z",
+  "updatedAt": "2026-08-31T04:48:30.603Z",
   "items": [
+    {
+      "id": "TechCrunch AI--yudgxf",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T02:34:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+    },
+    {
+      "id": "TechCrunch AI-osxm05",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-30T16:54:25.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in. 这篇内容重点围绕“Musk’s faster path to more gas turbines comes with pollution problem”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+    },
+    {
+      "id": "TechCrunch AI-b6l3q2",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+    },
     {
       "id": "TechCrunch AI-wiirdm",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -298,48 +340,6 @@
         "Agent"
       ],
       "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-    },
-    {
-      "id": "TechCrunch AI--3tvbxi",
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T11:35:59.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers. 这篇内容重点围绕“OpenAI to start showing ads on ChatGPT’s free and Go tiers in India”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
-    },
-    {
-      "id": "MIT Technology Review-k2ym7a",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-27T10:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country. One thing that could help turn that around?",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/"
-    },
-    {
-      "id": "TechCrunch AI-y7mazf",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T06:32:51.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business. 这篇内容重点围绕“Nvidia closes in on Hugging Face acquisition”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
     }
   ]
 }
