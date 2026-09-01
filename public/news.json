@@ -1,9 +1,122 @@
 {
-  "updatedAt": "2026-08-31T04:48:30.603Z",
+  "updatedAt": "2026-09-01T04:28:17.939Z",
   "items": [
     {
-      "id": "TechCrunch AI--yudgxf",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "id": "TechCrunch AI--kt9ec8",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T00:13:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation. 这篇内容重点围绕“Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+    },
+    {
+      "id": "TechCrunch AI--6awd79",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T20:13:45.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools. 这篇内容重点围绕“The Pentagon now has its own version of ChatGPT and Grok”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    },
+    {
+      "id": "TechCrunch AI-d32eik",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T19:16:59.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles. 这篇内容重点围绕“Instagram puts new limits on undisclosed AI profiles”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "id": "TechCrunch AI--gmdkve",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T18:35:11.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet. 这篇内容重点围绕“Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    },
+    {
+      "id": "MIT Technology Review-aex63p",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-31T18:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+    },
+    {
+      "id": "TechCrunch AI--nolfwm",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round. 这篇内容重点围绕“Clipto uses AI to search terabytes of video and is now valued at $250M”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    },
+    {
+      "id": "TechCrunch AI-x5d52x",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T15:15:25.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
+      "id": "TechCrunch AI-6mj791",
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T12:56:46.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Meeting note-taker Circleback adds a free tier to attract more customers”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+    },
+    {
+      "id": "TechCrunch AI-n13e5z",
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-31T02:34:00.000Z",
       "category": "公司与产品",
@@ -44,13 +157,13 @@
       "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
     },
     {
-      "id": "TechCrunch AI-wiirdm",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "id": "TechCrunch AI-uberky",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-29T18:41:59.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy. 这篇内容重点围绕“Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy. 这篇内容重点围绕“Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
@@ -58,13 +171,27 @@
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
     },
     {
-      "id": "TechCrunch AI-fkubdz",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "id": "TechCrunch AI--9mp5",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T17:51:10.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI. 这篇内容重点围绕“At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+    },
+    {
+      "id": "TechCrunch AI-py96ny",
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-29T17:36:47.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine. 这篇内容重点围绕““We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine. 这篇内容重点围绕“‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
@@ -185,34 +312,6 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
     },
     {
-      "id": "TechCrunch AI--5h02bh",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T23:16:45.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups. 这篇内容重点围绕“Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "id": "TechCrunch AI-fgn2hz",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T19:52:52.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. 这篇内容重点围绕“Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
-    },
-    {
       "id": "MIT Technology Review-kta9oh",
       "title": "A startup claims it’s found a drug to make your blood young",
       "source": "MIT Technology Review",
@@ -227,20 +326,6 @@
       "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
     },
     {
-      "id": "TechCrunch AI-vezbnb",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T17:43:24.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats. 这篇内容重点围绕“OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
-    },
-    {
       "id": "Google AI Blog-qfir7u",
       "title": "3 new ways to plan and book travel in Search",
       "source": "Google AI Blog",
@@ -253,93 +338,6 @@
         "研究与产品"
       ],
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
-    },
-    {
-      "id": "TechCrunch AI--74vvgq",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process. 这篇内容重点围绕“Google’s AI Mode can now track flight prices, help book hotels, and more”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
-    },
-    {
-      "id": "TechCrunch AI--5kmnxm",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T14:56:52.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.” 这篇内容重点围绕“Hugging Face is selling a cute $399 open source duck robot, Microduck”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
-    },
-    {
-      "id": "TechCrunch AI-tjfr2t",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T14:27:04.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory. 这篇内容重点围绕“AI’s memory crunch is coming for Android apps”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
-    },
-    {
-      "id": "TechCrunch AI--62op0l",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T14:01:42.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet. 这篇内容重点围绕“Here’s all the times AI has gone rogue and hacked other companies”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
-    },
-    {
-      "id": "TechCrunch AI--m392a2",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes. 这篇内容重点围绕“Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
-    },
-    {
-      "id": "MIT Technology Review-rffyk3",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-27T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released yesterday. The hack, which a group of agents carried out to find solutions for a cybersecurity test they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
     }
   ]
 }
