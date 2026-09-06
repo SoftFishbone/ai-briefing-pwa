@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-09-05T03:50:14.130Z",
+  "updatedAt": "2026-09-06T03:54:32.606Z",
   "items": [
+    {
+      "id": "TechCrunch AI-cklamk",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI. 这篇内容重点围绕“Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+    },
+    {
+      "id": "TechCrunch AI--xv9q7p",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-05T19:35:24.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\" 这篇内容重点围绕“Hikers rescued after using Google Gemini for planning”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+    },
+    {
+      "id": "TechCrunch AI--hugjry",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-05T18:05:27.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum. 这篇内容重点围绕“OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+    },
     {
       "id": "TechCrunch AI-ox3rm3",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -287,20 +330,6 @@
       "url": "https://huggingface.co/blog/Hcompany/neomme"
     },
     {
-      "id": "TechCrunch AI--huxujn",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-03T12:42:45.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers. 这篇内容重点围绕“Nvidia confirms it will buy Hugging Face for $12.9 billion”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
-    },
-    {
       "id": "MIT Technology Review-94aru7",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "source": "MIT Technology Review",
@@ -313,35 +342,6 @@
         "行业观察"
       ],
       "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
-    },
-    {
-      "id": "MIT Technology Review-n6aqh6",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-03T09:30:32.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains uneven, with many organizations still working through isolated pilots. WATCH THE WEBCAST For Arun Chandra, chief operating officer at NiCE, the first step is moving beyond experimentation for its own sake.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
-    },
-    {
-      "id": "Hugging Face-3vtjkm",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "source": "Hugging Face",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
     }
   ]
 }
