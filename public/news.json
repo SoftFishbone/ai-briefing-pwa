@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-06T03:54:32.606Z",
+  "updatedAt": "2026-09-07T03:54:04.477Z",
   "items": [
+    {
+      "id": "TechCrunch AI-70xo84",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments. 这篇内容重点围绕“Authors push back as publishers and agents make claims on Anthropic settlement”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+    },
+    {
+      "id": "TechCrunch AI-q82t52",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\" 这篇内容重点围绕“Travis Kalanick’s Atoms might be getting into the robotaxi business”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+    },
     {
       "id": "TechCrunch AI-cklamk",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -286,34 +315,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
-    },
-    {
-      "id": "TechCrunch AI-62a057",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-03T16:09:01.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others. 这篇内容重点围绕“Ollie is betting its focus on privacy can help it win the AI assistant race”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
-    },
-    {
-      "id": "TechCrunch AI-wcu2p7",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
     },
     {
       "id": "Hugging Face-12thz9",
