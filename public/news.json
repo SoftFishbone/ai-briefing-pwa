@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-09-12T03:59:25.068Z",
+  "updatedAt": "2026-09-14T04:17:07.748Z",
   "items": [
+    {
+      "id": "TechCrunch AI-rsqj7k",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T19:40:15.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity. 这篇内容重点围绕“What’s behind the AI industry’s latest warnings of doom?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+    },
+    {
+      "id": "TechCrunch AI--k5zy9h",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T16:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety. 这篇内容重点围绕“Obama urges Democrats to have a ‘clear plan’ for AI safeguards”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+    },
+    {
+      "id": "TechCrunch AI--dnkr9h",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-12T20:19:16.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman. 这篇内容重点围绕“OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    },
+    {
+      "id": "TechCrunch AI-t85kbw",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-12T19:34:44.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like? 这篇内容重点围绕“Anthropic CEO outlines plan to slow AI development”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
     {
       "id": "TechCrunch AI-grwv17",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -72,8 +128,8 @@
       "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
     },
     {
-      "id": "MIT Technology Review-n91twn",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "id": "MIT Technology Review--bvtuj1",
+      "title": "Roundtables: Could AI really kill us all?",
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-11T20:05:06.000Z",
       "category": "行业观察",
@@ -272,35 +328,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
     },
     {
-      "id": "TechCrunch AI-aqbzdp",
-      "title": "AI agents are flooding public services with new requests",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T14:53:50.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch. 这篇内容重点围绕“AI agents are flooding public services with new requests”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
-    },
-    {
-      "id": "TechCrunch AI--idod6n",
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T14:17:37.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments. 这篇内容重点围绕“Maven Robotics wants to steal your robot deployment deal”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
-    },
-    {
       "id": "MIT Technology Review--7mmdgu",
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
       "source": "MIT Technology Review",
@@ -314,35 +341,6 @@
         "Agent"
       ],
       "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
-    },
-    {
-      "id": "MIT Technology Review-lmx5no",
-      "title": "Powering AI is an architecture problem",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-10T11:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once.",
-      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
-    },
-    {
-      "id": "MIT Technology Review-kxucrl",
-      "title": "God told them to sell crypto. Their investors lost everything.",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-10T09:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a line from a movie or the memory of a loved one’s voice.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
     }
   ]
 }
