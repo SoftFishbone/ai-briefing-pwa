@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-10-03T04:42:08.908Z",
+  "updatedAt": "2026-10-04T05:13:26.145Z",
   "items": [
+    {
+      "id": "Hugging Face-72qb9n",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“The Agent Said It Was Done. The Database Disagreed.”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
+    {
+      "id": "TechCrunch AI--xhj92q",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T18:43:57.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. 这篇内容重点围绕“Amazon responds to data center backlash, says it no longer uses NDAs”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+    },
+    {
+      "id": "TechCrunch AI-w6knor",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job. 这篇内容重点围绕“OpenAI safety employee resigns, claiming the company’s ‘culture is broken’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+    },
+    {
+      "id": "TechCrunch AI--mu8012",
+      "title": "All the AI agents that can live in your text messages",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. 这篇内容重点围绕“All the AI agents that can live in your text messages”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
     {
       "id": "TechCrunch AI--2dlukh",
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -284,63 +342,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-    },
-    {
-      "id": "TechCrunch AI--zd04of",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T18:14:42.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says. 这篇内容重点围绕“OpenAI cuts ties with 3 safety researchers, WSJ reports”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
-    },
-    {
-      "id": "TechCrunch AI--ohkm72",
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T17:50:19.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples. 这篇内容重点围绕“Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
-    },
-    {
-      "id": "TechCrunch AI-ct96k5",
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T16:49:22.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B. 这篇内容重点围绕“Amazon releases its own Jev clone as decision models flood the web”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
-    },
-    {
-      "id": "TechCrunch AI--eniqd4",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T16:44:35.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time. 这篇内容重点围绕“Shopify debuts Canvas, a way to build online stores by chatting with AI”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
     }
   ]
 }
