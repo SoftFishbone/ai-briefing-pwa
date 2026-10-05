@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-04T05:13:26.145Z",
+  "updatedAt": "2026-10-05T04:57:42.418Z",
   "items": [
+    {
+      "id": "MIT Technology Review--q4gbtw",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily. There’s much more to discover These are just two sessions from EmTech Future 2026 .",
+      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+    },
+    {
+      "id": "TechCrunch AI--shh7iw",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04T20:31:07.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+    },
+    {
+      "id": "TechCrunch AI--pjmg78",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04T20:08:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+    },
+    {
+      "id": "TechCrunch AI-8tzdnf",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04T15:15:10.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Trump unveils his new Super Intelligence Force”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+    },
     {
       "id": "Hugging Face-72qb9n",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -285,63 +341,6 @@
         "行业观察"
       ],
       "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
-    },
-    {
-      "id": "Hugging Face--8sumob",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-02T04:01:31.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“AutoSynthData: Generating Training Data for Enterprise Agents”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "开源",
-        "Agent"
-      ],
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-    },
-    {
-      "id": "TechCrunch AI--ayzah3",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T21:08:11.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro. 这篇内容重点围绕“Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
-    },
-    {
-      "id": "TechCrunch AI--8s0b3x",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T19:21:53.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library. 这篇内容重点围绕“ChatGPT can now virtually try on clothes for you”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
-    },
-    {
-      "id": "TechCrunch AI-gckhhr",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-01T19:18:03.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers. 这篇内容重点围绕“Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
     }
   ]
 }
