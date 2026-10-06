@@ -1,6 +1,236 @@
 {
-  "updatedAt": "2026-10-05T04:57:42.418Z",
+  "updatedAt": "2026-10-06T05:45:17.676Z",
   "items": [
+    {
+      "id": "TechCrunch AI--rtjhz6",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T20:36:48.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+    },
+    {
+      "id": "TechCrunch AI--3h3chk",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T19:33:53.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    },
+    {
+      "id": "TechCrunch AI--3mmspb",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T18:54:30.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+    },
+    {
+      "id": "TechCrunch AI-5focwx",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T18:29:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. 这篇内容重点围绕“TikTok rolls out an AI shopping assistant and one-click checkout”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+    },
+    {
+      "id": "TechCrunch AI-4xr1cq",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T17:29:22.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency. 这篇内容重点围绕“Hot Girl Hotline is like ‘Dear Abby’ for the AI era”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
+    },
+    {
+      "id": "TechCrunch AI--m8to8s",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T16:43:35.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers. 这篇内容重点围绕“HackerRank’s AI interviewer offers a glimpse into what job interviews could become”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
+    },
+    {
+      "id": "MIT Technology Review-nlcvc2",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-05T15:47:52.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately take actions.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+    },
+    {
+      "id": "TechCrunch AI-o5fa34",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T15:14:24.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    },
+    {
+      "id": "TechCrunch AI--spx153",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T15:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "TechCrunch AI--je9mhs",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T14:35:09.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap. 这篇内容重点围绕“Researchers are tracking a Chinese AI ‘agent fleet’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
+    },
+    {
+      "id": "TechCrunch AI-wtaju7",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T14:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "TechCrunch AI-w22j58",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "MIT Technology Review--5djnq2",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-05T13:29:32.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between leaders and laggards is widening accordingly.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+    },
+    {
+      "id": "MIT Technology Review--lcgjr1",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-05T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come up with a wide variety of responses .",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+    },
+    {
+      "id": "TechCrunch AI--9te80i",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones. 这篇内容重点围绕“Can Safeworld convince people that GenAI robots won’t hurt them?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
+    },
+    {
+      "id": "MIT Technology Review--ike5w0",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI company. We don’t know if we really like what we’re doing.” “I guess that makes me a self-loathing AI journalist,” I replied.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+    },
     {
       "id": "MIT Technology Review--q4gbtw",
       "title": "EmTech Future 2026: When AI Meets Everything",
@@ -114,233 +344,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-    },
-    {
-      "id": "TechCrunch AI--2dlukh",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03T00:45:39.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free. 这篇内容重点围绕“Meta wants your next gadget to be Muse-infused”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-    },
-    {
-      "id": "TechCrunch AI-yfs7hk",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T21:09:14.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money. 这篇内容重点围绕“Sean Parker is rebuilding Stability AI around music”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
-    },
-    {
-      "id": "TechCrunch AI--284iyu",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T19:15:51.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-    },
-    {
-      "id": "TechCrunch AI--8uc1jt",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T18:11:27.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier. 这篇内容重点围绕“Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-    },
-    {
-      "id": "TechCrunch AI-71pjvu",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T17:56:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […] 这篇内容重点围绕“Call it AI, call it Super Intelligence, only 2% of consumers are buying it”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
-    },
-    {
-      "id": "TechCrunch AI--1o7pad",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T17:48:16.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […] 这篇内容重点围绕“It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
-    },
-    {
-      "id": "TechCrunch AI-ux6bl6",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T17:32:05.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
-    },
-    {
-      "id": "TechCrunch AI-wnd1s",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
-    },
-    {
-      "id": "MIT Technology Review--k31ci3",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-02T15:49:04.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
-    },
-    {
-      "id": "TechCrunch AI--f7r1s8",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T15:39:41.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
-    },
-    {
-      "id": "Hugging Face-6bwt1l",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-02T15:19:50.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Open-sourcing AstaBrief, the fast report-generation model in Asta”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/allenai/astabrief"
-    },
-    {
-      "id": "Google AI Blog-w9p2es",
-      "title": "The latest AI news we announced in September 2026",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "这条资讯来自Google AI Blog，主题是“The latest AI news we announced in September 2026”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
-    },
-    {
-      "id": "TechCrunch AI--of8ul1",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T14:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
-    },
-    {
-      "id": "TechCrunch AI--hj2qif",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
-    },
-    {
-      "id": "MIT Technology Review--j47we2",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-02T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger .",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
-    },
-    {
-      "id": "MIT Technology Review--64oxzo",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-02T08:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch. AlphaGo won the game, ultimately triumphing 4-1 over Lee Sedol, one of the greatest professional Go players of all time.",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
     }
   ]
 }
