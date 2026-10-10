@@ -1,6 +1,178 @@
 {
-  "updatedAt": "2026-10-09T05:30:03.112Z",
+  "updatedAt": "2026-10-10T05:13:57.864Z",
   "items": [
+    {
+      "id": "TechCrunch AI--1lqnki",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T00:18:32.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. 这篇内容重点围绕“Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
+    {
+      "id": "TechCrunch AI--jwdz2j",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T21:41:29.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. 这篇内容重点围绕“The maker of non-text AI model Jev valued at $7.5B just weeks after launch”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "id": "TechCrunch AI--hjrb99",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T19:36:56.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip. 这篇内容重点围绕“An Anthropic AI model sent a false homicide tip to Philadelphia police”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+    },
+    {
+      "id": "TechCrunch AI--nhtix2",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T16:56:42.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+    },
+    {
+      "id": "TechCrunch AI-611u6m",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T16:53:02.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+    },
+    {
+      "id": "TechCrunch AI-fwaqwu",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T16:45:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste. 这篇内容重点围绕“Danu Robotics’ fight to build a better recycling robot”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+    },
+    {
+      "id": "TechCrunch AI-jaj93s",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T16:40:14.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+    },
+    {
+      "id": "TechCrunch AI--oyatg",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T15:43:33.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges. 这篇内容重点围绕“a16z’s Olivia Moore on the state of consumer AI”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
+    },
+    {
+      "id": "Hugging Face--vv9ks9",
+      "title": "Impactful scheduling for GPU clusters",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-09T15:20:29.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Impactful scheduling for GPU clusters”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+    },
+    {
+      "id": "TechCrunch AI--8velhe",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+    },
+    {
+      "id": "MIT Technology Review--2bdhlq",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-09T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison a colleague or how to tie a noose, chances are it’ll turn you down.",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
+    },
+    {
+      "id": "MIT Technology Review--tza5we",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+    },
     {
       "id": "MIT Technology Review-dfdfcs",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -171,179 +343,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
-    },
-    {
-      "id": "TechCrunch AI--7yftlj",
-      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
-    },
-    {
-      "id": "TechCrunch AI-yh1yob",
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee. 这篇内容重点围绕“Cal AI’s 19-year-old founder just raised $10M for his new AI startup”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
-    },
-    {
-      "id": "TechCrunch AI-775gzi",
-      "title": "Google releases a new local-first Granola competitor",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T13:28:39.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI. 这篇内容重点围绕“Google releases a new local-first Granola competitor”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
-    },
-    {
-      "id": "TechCrunch AI-sdp4qp",
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T13:20:32.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated. 这篇内容重点围绕“China’s Manus raises over $500M in first funding round since split with Meta”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
-    },
-    {
-      "id": "MIT Technology Review--cwv4ll",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-08T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI advances behind ChatGPT and Claude could enable robots to imitate human movement the way chatbots imitate human language.",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
-    },
-    {
-      "id": "MIT Technology Review--cplnq5",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-08T09:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or pass popcorn, put trash in a bin, vacuum, or press the button of a microwave.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
-    },
-    {
-      "id": "MIT Technology Review-38gdrj",
-      "title": "Building a safer path to autonomous industrial AI",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-08T08:17:32.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems, where an unexpected decision can have consequences for safety, reliability, and critical infrastructure.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
-    },
-    {
-      "id": "Hugging Face-frpz9w",
-      "title": "The model that didn't exist, so you made it yourself",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“The model that didn't exist, so you made it yourself”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/building-with-ml-intern"
-    },
-    {
-      "id": "TechCrunch AI-263x9q",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T20:48:45.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Nous Research confirms it hit $1.5B valuation, launches AI agents for business users”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-    },
-    {
-      "id": "TechCrunch AI--vpyh6x",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T20:22:37.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents. 这篇内容重点围绕“Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-    },
-    {
-      "id": "TechCrunch AI-qt1fgi",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T18:30:57.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations. 这篇内容重点围绕“Meta’s Muse launches on iPad just a month after its mobile debut”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-    },
-    {
-      "id": "TechCrunch AI-7yxeb7",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T18:15:28.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself. 这篇内容重点围绕“ChatGPT for Teens keeps teens talking, even during mental health crises”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
     }
   ]
 }
