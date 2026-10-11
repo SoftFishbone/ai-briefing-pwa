@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-10-10T05:13:57.864Z",
+  "updatedAt": "2026-10-11T05:04:30.408Z",
   "items": [
+    {
+      "id": "TechCrunch AI--omx60d",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI. 这篇内容重点围绕“Microsoft’s Satya Nadella says AI models need an ‘emergency brake’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+    },
+    {
+      "id": "TechCrunch AI-c4ft4g",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T19:50:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Apple discloses deal to hire team and license tech from personalized podcast startup Huxe”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+    },
+    {
+      "id": "TechCrunch AI-go8y92",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
+    },
+    {
+      "id": "TechCrunch AI-qctlua",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. 这篇内容重点围绕“Here are the top AI agents that can live in your text messages”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
     {
       "id": "TechCrunch AI--1lqnki",
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -285,64 +342,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
-    },
-    {
-      "id": "TechCrunch AI-4cina5",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:10:55.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab. 这篇内容重点围绕“OpenAI’s math solutions aren’t meeting the field’s standards yet”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
-    },
-    {
-      "id": "TechCrunch AI-4d187l",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker. 这篇内容重点围绕“Natura’s $99 smart ring puts AI agents on your finger”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
-    },
-    {
-      "id": "TechCrunch AI--la5wzk",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy. 这篇内容重点围绕“Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
-    },
-    {
-      "id": "TechCrunch AI-vfdy2m",
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T15:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
     }
   ]
 }
