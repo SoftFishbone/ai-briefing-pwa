@@ -1,6 +1,163 @@
 {
-  "updatedAt": "2026-10-16T03:58:04.657Z",
+  "updatedAt": "2026-10-17T03:48:07.788Z",
   "items": [
+    {
+      "id": "TechCrunch AI-1krsjc",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "id": "MIT Technology Review-dfdfcs",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next.",
+      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    },
+    {
+      "id": "TechCrunch AI-3yu05a",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T17:52:24.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. 这篇内容重点围绕“India becomes the latest country to report rogue AI agent activity”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+    },
+    {
+      "id": "TechCrunch AI--r0phu4",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+    },
+    {
+      "id": "TechCrunch AI--x7wpse",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+    },
+    {
+      "id": "TechCrunch AI--xf6c47",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T16:01:37.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks. 这篇内容重点围绕“Elorian’s first AI model wants to reason with images, not just about them”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+    },
+    {
+      "id": "TechCrunch AI-egqhfv",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T15:33:49.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter. 这篇内容重点围绕“Jev is Vercel’s fastest-adopted AI model ever”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+    },
+    {
+      "id": "TechCrunch AI-qxh0we",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T14:26:51.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" 这篇内容重点围绕“Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
+    },
+    {
+      "id": "TechCrunch AI--oqqw3a",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+    },
+    {
+      "id": "TechCrunch AI-dp8ht4",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T12:55:09.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions. 这篇内容重点围绕“Replit’s CEO says the future of work is the ‘self-driving company’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
+    },
+    {
+      "id": "MIT Technology Review-hg8bu2",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-16T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+    },
     {
       "id": "Hugging Face-lxj8cq",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -14,6 +171,20 @@
         "开源"
       ],
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    },
+    {
+      "id": "Hugging Face-dgivl4",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Welcome Beam: a 501B open model you can own, customize, and scale”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/reflection-beam"
     },
     {
       "id": "TechCrunch AI-vorwqq",
@@ -170,176 +341,6 @@
         "Agent"
       ],
       "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
-    },
-    {
-      "id": "TechCrunch AI--4cfzld",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-    },
-    {
-      "id": "MIT Technology Review-vuzgo3",
-      "title": "How much more can nuclear power plants give?",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a gigawatt of new capacity across 11 existing nuclear reactors at six plants.",
-      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
-    },
-    {
-      "id": "MIT Technology Review--wkuuia",
-      "title": "Six wild ideas for perpetuating your mind",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Have you ever thought about what makes you you ? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that first memory of Mommy actually resides.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/"
-    },
-    {
-      "id": "MIT Technology Review-wed76e",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-15T08:43:24.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one case for over a year.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
-    },
-    {
-      "id": "TechCrunch AI-l6cm56",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T04:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Figma announces new features to define how agents work on its platform”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-    },
-    {
-      "id": "TechCrunch AI-yqmwyu",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T01:01:32.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process. 这篇内容重点围绕“Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
-    },
-    {
-      "id": "Hugging Face--8vm0tv",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/meta-muse-spark-open"
-    },
-    {
-      "id": "Hugging Face-f7unzs",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Welcome FLUX.3 Image Klein in Diffusers”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/flux-3"
-    },
-    {
-      "id": "TechCrunch AI-dx9vnl",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T00:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis. 这篇内容重点围绕“Gudea leverages AI to help organizations prevent social media crises before they erupt”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
-    },
-    {
-      "id": "TechCrunch AI--2s4n6q",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14T21:30:33.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology. 这篇内容重点围绕“Flock CEO says its microphones detect ‘just gunshots’ — its website says different”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
-    },
-    {
-      "id": "TechCrunch AI-1l2rec",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14T18:23:46.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals. 这篇内容重点围绕“YouTube Music launches new labels as AI-generated music floods streaming platforms”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
-    },
-    {
-      "id": "TechCrunch AI--hmwgoe",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14T18:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
     }
   ]
 }
