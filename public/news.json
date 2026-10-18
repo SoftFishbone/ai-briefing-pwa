@@ -1,19 +1,47 @@
 {
-  "updatedAt": "2026-10-17T03:48:07.788Z",
+  "updatedAt": "2026-10-18T03:54:31.280Z",
   "items": [
     {
-      "id": "TechCrunch AI-1krsjc",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "id": "TechCrunch AI-o1qnam",
+      "title": "Meta removes language that raised scraping and AI training concerns",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. 这篇内容重点围绕“Meta removes language that raised scraping and AI training concerns”展开，建议结合原文中的背景、数据和限制条件理解。",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
       ],
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "id": "TechCrunch AI-gl5njv",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17T20:21:19.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year. 这篇内容重点围绕“Anthropic says its workforce has become less junior and is spending more time in meetings”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    },
+    {
+      "id": "TechCrunch AI-exyu5v",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
       "id": "MIT Technology Review-dfdfcs",
@@ -312,35 +340,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-    },
-    {
-      "id": "TechCrunch AI--s08tzy",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
-    },
-    {
-      "id": "MIT Technology Review-j9wbj1",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-15T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. The kidneys, which are similar in size to human ones, were left in a glass-like state, in one case for over a year.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
     }
   ]
 }
