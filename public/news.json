@@ -1,6 +1,296 @@
 {
-  "updatedAt": "2026-10-22T04:05:26.023Z",
+  "updatedAt": "2026-10-23T04:08:54.112Z",
   "items": [
+    {
+      "id": "TechCrunch AI-l71vi8",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T00:45:37.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs. 这篇内容重点围绕“Left alone with nothing to do, AI agents started playing”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
+    {
+      "id": "Hugging Face--ghjzo",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-22T22:24:34.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    },
+    {
+      "id": "TechCrunch AI--b5qgc1",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T22:08:24.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever. 这篇内容重点围绕“OpenAI working on new $30B raise at $1.25T valuation ahead of IPO”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+    },
+    {
+      "id": "MIT Technology Review--4ozhqk",
+      "title": "Designing an AI serving harness built to last",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22T21:17:29.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores.",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+    },
+    {
+      "id": "TechCrunch AI-tx1bhj",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:07:09.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. 这篇内容重点围绕“1Password launches a way for AI agents to log in on your behalf without seeing your password”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+    },
+    {
+      "id": "TechCrunch AI-439tz1",
+      "title": "Canva releases its first image generation model",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs. 这篇内容重点围绕“Canva releases its first image generation model”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "id": "TechCrunch AI-m059v3",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "id": "MIT Technology Review--wn2taf",
+      "title": "The Foundations of Scalable AI",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22T18:48:04.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+    },
+    {
+      "id": "TechCrunch AI-ft08ec",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T18:43:53.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+    },
+    {
+      "id": "TechCrunch AI--q6t162",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T16:47:17.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers. 这篇内容重点围绕“Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+    },
+    {
+      "id": "Hugging Face-96awer",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-22T16:11:31.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“OlmoEarth v1.3: State-of-the-art embeddings for the whole planet”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+    },
+    {
+      "id": "TechCrunch AI-50l22",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide. 这篇内容重点围绕“Uber puts all 30,000 employees on ChatGPT Work”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+    },
+    {
+      "id": "TechCrunch AI--29em05",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T15:03:58.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service. 这篇内容重点围绕“Spotify’s current AI bet is about being the music service that agents choose”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+    },
+    {
+      "id": "TechCrunch AI--16hz3n",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T13:53:26.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Claude Duet app is Anthropic’s bet on agents”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+    },
+    {
+      "id": "TechCrunch AI--cltnb5",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T13:26:52.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Nirva raises $33M for a pendant that only listens to you”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+    },
+    {
+      "id": "TechCrunch AI--75scnn",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T13:11:13.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+    },
+    {
+      "id": "MIT Technology Review-re083p",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical law stopping us from writing the entire Encyclopædia Britannica on the head of a pin, he argued.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+    },
+    {
+      "id": "MIT Technology Review--l0giz9",
+      "title": "Making the case for context-aware AI",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead is giving technology the context to act usefully within complex business processes.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+    },
+    {
+      "id": "MIT Technology Review-teu71h",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-22T08:41:18.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds?",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+    },
+    {
+      "id": "Hugging Face-i6s2mf",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-22T07:51:31.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Ensemble forecasting with IBM Granite time-series models”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    },
     {
       "id": "TechCrunch AI--qlpdkn",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -14,6 +304,20 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+    },
+    {
+      "id": "TechCrunch AI-e84knz",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21T22:45:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services. 这篇内容重点围绕“Meta wants to pay for its broad AI buildout with a newly created class of stock”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
     },
     {
       "id": "TechCrunch AI-87gibr",
@@ -36,308 +340,12 @@
       "publishedAt": "2026-10-21T21:14:19.000Z",
       "category": "公司与产品",
       "region": "全球",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
       "keywords": [
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
-    },
-    {
-      "id": "TechCrunch AI-ti64jv",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T20:27:41.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself. 这篇内容重点围绕“Recursive launches Flint, a laptop coding model it says was largely built by AI”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
-    },
-    {
-      "id": "TechCrunch AI--vkxb32",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T19:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals. 这篇内容重点围绕“While Amazon blocks AI agents, Walmart rolls out the welcome mat”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
-    },
-    {
-      "id": "Hugging Face--neapu5",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-21T18:26:30.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
-    },
-    {
-      "id": "TechCrunch AI--yo2f9z",
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T17:59:12.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI. 这篇内容重点围绕“PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
-    },
-    {
-      "id": "Hugging Face--g2505h",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-21T17:35:36.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-    },
-    {
-      "id": "TechCrunch AI-sg4ptt",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T17:18:27.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion. 这篇内容重点围绕“Blacksmith hits unicorn valuation after Sequoia leads Series C”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
-    },
-    {
-      "id": "Hugging Face-dpiefr",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-21T16:04:43.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
-    },
-    {
-      "id": "Hugging Face--om8nsh",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-21T14:58:18.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
-    },
-    {
-      "id": "TechCrunch AI-ga06zc",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey. 这篇内容重点围绕“AI promises productivity, but for managers, it’s mostly a headache for now”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
-    },
-    {
-      "id": "MIT Technology Review--9m3282",
-      "title": "The Download: introducing the Impossible issue",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-21T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Because it’s fun to dream about living on other planets or uploading our brains.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
-    },
-    {
-      "id": "MIT Technology Review-szuz31",
-      "title": "We can do impossible things",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.” I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker: When an idea pops up, I immediately spin up a feasibility assessment in my head.",
-      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
-    },
-    {
-      "id": "MIT Technology Review-ke8aeu",
-      "title": "Interspecies communication",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think, who have hopes and dreams of their own,” says Con Slobodchikoff, the founder of Zoolingua, a company working on dog-to-human speech. The sticking points Teasing all this out is complex.",
-      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
-    },
-    {
-      "id": "Google AI Blog-c81pg4",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-10-21T04:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035. 这篇内容重点围绕“Southeast Asia’s digital economy to hit $368 billion”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
-    },
-    {
-      "id": "TechCrunch AI-b5p4e5",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T23:01:23.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. 这篇内容重点围绕“Anthropic pitches AI safety bill that may block a model if 50+ people could be killed”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-    },
-    {
-      "id": "TechCrunch AI-6d8bfs",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T22:24:02.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
-    },
-    {
-      "id": "TechCrunch AI--ycxwoj",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T21:25:22.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO. 这篇内容重点围绕“Anthropic’s cloud partnerships are getting messy”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
-    },
-    {
-      "id": "MIT Technology Review-rbwrh7",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-20T21:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have designed a robot that can do likewise.",
-      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
-    },
-    {
-      "id": "TechCrunch AI-x8vk5h",
-      "title": "SpaceX’s AI business is beating expectations",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T20:40:41.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine. 这篇内容重点围绕“SpaceX’s AI business is beating expectations”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "id": "TechCrunch AI-din6h7",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T20:35:10.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. 这篇内容重点围绕“OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
-    },
-    {
-      "id": "TechCrunch AI--qzv39o",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T18:38:24.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. 这篇内容重点围绕“Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
-    },
-    {
-      "id": "TechCrunch AI-qm1ea9",
-      "title": "ChatGPT now lets you lock your chats",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T18:36:53.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat. 这篇内容重点围绕“ChatGPT now lets you lock your chats”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
     }
   ]
 }
