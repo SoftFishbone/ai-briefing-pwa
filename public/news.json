@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-10-23T04:08:54.112Z",
+  "updatedAt": "2026-10-24T04:01:25.234Z",
   "items": [
+    {
+      "id": "TechCrunch AI-uaiflk",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T23:05:49.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. 这篇内容重点围绕“OpenAI says it will no longer train its AI models on the live internet, citing “significant risks””展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "id": "TechCrunch AI-e64vui",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T21:59:19.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command. 这篇内容重点围绕“Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+    },
+    {
+      "id": "TechCrunch AI-renqlk",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T19:06:23.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. 这篇内容重点围绕“From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+    },
+    {
+      "id": "Hugging Face-xigvbc",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“LitPivot: Developing research ideas through dynamic contextualization within the literature landscape”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/allenai/litpivot"
+    },
+    {
+      "id": "MIT Technology Review--5foqno",
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-23T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips?",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+    },
+    {
+      "id": "TechCrunch AI-aibb3j",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. 这篇内容重点围绕“Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+    },
     {
       "id": "TechCrunch AI-l71vi8",
       "title": "Left alone with nothing to do, AI agents started playing",
@@ -15,6 +99,20 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
+    {
+      "id": "Hugging Face-v0afi3",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Does Your Model Run on AWS Trainium? Look It Up”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support"
     },
     {
       "id": "Hugging Face--ghjzo",
@@ -75,20 +173,6 @@
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "id": "TechCrunch AI-439tz1",
-      "title": "Canva releases its first image generation model",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs. 这篇内容重点围绕“Canva releases its first image generation model”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-    },
-    {
       "id": "TechCrunch AI-m059v3",
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "source": "TechCrunch AI",
@@ -101,6 +185,20 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "id": "TechCrunch AI-439tz1",
+      "title": "Canva releases its first image generation model",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs. 这篇内容重点围绕“Canva releases its first image generation model”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
     },
     {
       "id": "MIT Technology Review--wn2taf",
@@ -145,20 +243,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
-    },
-    {
-      "id": "Hugging Face-96awer",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-22T16:11:31.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“OlmoEarth v1.3: State-of-the-art embeddings for the whole planet”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
     },
     {
       "id": "TechCrunch AI-50l22",
@@ -262,90 +346,6 @@
         "Agent"
       ],
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
-    },
-    {
-      "id": "MIT Technology Review-teu71h",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-22T08:41:18.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds?",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
-    },
-    {
-      "id": "Hugging Face-i6s2mf",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-22T07:51:31.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Ensemble forecasting with IBM Granite time-series models”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-    },
-    {
-      "id": "TechCrunch AI--qlpdkn",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T22:51:22.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
-    },
-    {
-      "id": "TechCrunch AI-e84knz",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T22:45:34.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services. 这篇内容重点围绕“Meta wants to pay for its broad AI buildout with a newly created class of stock”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
-    },
-    {
-      "id": "TechCrunch AI-87gibr",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T21:16:20.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies. 这篇内容重点围绕“TechCrunch Founder Summit 2026: Everything you need to know”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-    },
-    {
-      "id": "TechCrunch AI-vqojd0",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T21:14:19.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
     }
   ]
 }
