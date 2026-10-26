@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-25T04:02:32.222Z",
+  "updatedAt": "2026-10-26T04:06:38.929Z",
   "items": [
+    {
+      "id": "TechCrunch AI--sw6fm2",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. 这篇内容重点围绕“Grok releases the first seven minutes of its AI-generated ‘Odyssey’”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+    },
+    {
+      "id": "TechCrunch AI-rr0p8y",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" 这篇内容重点围绕“AI delivers ‘zero financial payoff’ to most companies, Apollo economist says”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+    },
+    {
+      "id": "TechCrunch AI--f28r64",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. 这篇内容重点围绕“The hottest AI wearables and gadgets you should know about”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+    },
     {
       "id": "TechCrunch AI-tu6ogy",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -230,20 +272,6 @@
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
-      "id": "TechCrunch AI-m059v3",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-    },
-    {
       "id": "TechCrunch AI-439tz1",
       "title": "Canva releases its first image generation model",
       "source": "TechCrunch AI",
@@ -256,6 +284,20 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "id": "TechCrunch AI-m059v3",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
       "id": "MIT Technology Review--wn2taf",
@@ -300,51 +342,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
-    },
-    {
-      "id": "TechCrunch AI-50l22",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide. 这篇内容重点围绕“Uber puts all 30,000 employees on ChatGPT Work”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-    },
-    {
-      "id": "TechCrunch AI--29em05",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T15:03:58.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service. 这篇内容重点围绕“Spotify’s current AI bet is about being the music service that agents choose”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
-    },
-    {
-      "id": "TechCrunch AI--16hz3n",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T13:53:26.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Claude Duet app is Anthropic’s bet on agents”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
     }
   ]
 }
