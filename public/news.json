@@ -1,6 +1,260 @@
 {
-  "updatedAt": "2026-10-27T04:26:29.017Z",
+  "updatedAt": "2026-10-28T04:57:53.668Z",
   "items": [
+    {
+      "id": "TechCrunch AI-9l3tab",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T01:15:28.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic. 这篇内容重点围绕“VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+    },
+    {
+      "id": "TechCrunch AI--86z77a",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T23:34:27.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February. 这篇内容重点围绕“Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    },
+    {
+      "id": "TechCrunch AI-ye8z2z",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T22:55:41.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say. 这篇内容重点围绕“The data center boom has an upside: innovation for the US grid”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+    },
+    {
+      "id": "TechCrunch AI--i3yg96",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T21:44:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access. 这篇内容重点围绕“Bank of America kindly asks that you don’t share your banking password with your AI assistant”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    },
+    {
+      "id": "TechCrunch AI-dpn31p",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T21:38:28.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure. 这篇内容重点围绕“Who’s really in charge at Anthropic after the IPO?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+    },
+    {
+      "id": "TechCrunch AI--12zcw8",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T18:55:35.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs. 这篇内容重点围绕“Disruptive raises $10B fund to make big bets on at least 10 companies”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
+    },
+    {
+      "id": "Hugging Face-iw3k93",
+      "title": "Build specialized multimodal models with LFM3",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-27T17:16:52.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Build specialized multimodal models with LFM3”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+    },
+    {
+      "id": "TechCrunch AI-l9987i",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T17:08:08.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery. 这篇内容重点围绕“Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+      "id": "TechCrunch AI-ysaway",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T16:30:57.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters. 这篇内容重点围绕“Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+      "id": "Hugging Face-h72cod",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "source": "Hugging Face",
+      "publishedAt": "2026-10-27T16:12:42.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Can we trust LLMs to judge whether a research idea is novel?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/allenai/novelty-bench"
+    },
+    {
+      "id": "TechCrunch AI--9devnb",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T14:59:09.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    },
+    {
+      "id": "TechCrunch AI-bxw3yw",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T13:32:57.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach. 这篇内容重点围绕“Japan internet giant GMO says hackers posted stolen customer data”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+    },
+    {
+      "id": "TechCrunch AI--x2sfft",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Opera introduces a new web standard to let users deploy AI locally in their browser”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "id": "TechCrunch AI--2j6oo",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“General Compute raises $100 million Series A, countering the neocloud disaster narrative”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "id": "MIT Technology Review-nla7ua",
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-27T12:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+    },
+    {
+      "id": "MIT Technology Review-g1de8j",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-27T11:19:18.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
+    },
+    {
+      "id": "TechCrunch AI--bhdny",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
+      "id": "MIT Technology Review--t1to3m",
+      "title": "How solid-state transformers could help power the AI boom",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"
+    },
     {
       "id": "TechCrunch AI-beppbn",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -85,261 +339,6 @@
         "研究与产品"
       ],
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
-    },
-    {
-      "id": "TechCrunch AI-d2xx85",
-      "title": "Anthropic officially files for its public debut",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-26T14:35:22.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission. 这篇内容重点围绕“Anthropic officially files for its public debut”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
-    },
-    {
-      "id": "MIT Technology Review-6okjcn",
-      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-26T12:40:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at Hopelab We have historically allowed debates over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. A third of teens now choose to discuss serious matters with AI companions instead of other people.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
-    },
-    {
-      "id": "MIT Technology Review-87ymzx",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-26T09:01:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl .",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
-    },
-    {
-      "id": "TechCrunch AI--sw6fm2",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-25T21:31:16.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest. 这篇内容重点围绕“Grok releases the first seven minutes of its AI-generated ‘Odyssey’”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-    },
-    {
-      "id": "TechCrunch AI-rr0p8y",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-25T16:57:32.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\" 这篇内容重点围绕“AI delivers ‘zero financial payoff’ to most companies, Apollo economist says”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-    },
-    {
-      "id": "TechCrunch AI--f28r64",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-25T14:10:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. 这篇内容重点围绕“The hottest AI wearables and gadgets you should know about”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-    },
-    {
-      "id": "TechCrunch AI--23wiyb",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-24T20:15:33.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Will AI expose the rickety infrastructure of the internet?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
-    },
-    {
-      "id": "TechCrunch AI-tu6ogy",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations. 这篇内容重点围绕“The AI graveyard: a running list of projects and startups that didn’t make it”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "id": "TechCrunch AI--937ej5",
-      "title": "Block’s new voice model sounds eerily human",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-24T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-    },
-    {
-      "id": "TechCrunch AI-xum00d",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races. 这篇内容重点围绕“Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-    },
-    {
-      "id": "TechCrunch AI-qctlua",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. 这篇内容重点围绕“Here are the top AI agents that can live in your text messages”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
-    },
-    {
-      "id": "TechCrunch AI-f4i8a8",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-23T23:05:49.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. 这篇内容重点围绕“OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-    },
-    {
-      "id": "TechCrunch AI-e64vui",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-23T21:59:19.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command. 这篇内容重点围绕“Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-    },
-    {
-      "id": "TechCrunch AI-renqlk",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-23T19:06:23.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs. 这篇内容重点围绕“From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
-    },
-    {
-      "id": "Hugging Face-xigvbc",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-23T16:15:50.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“LitPivot: Developing research ideas through dynamic contextualization within the literature landscape”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/allenai/litpivot"
-    },
-    {
-      "id": "MIT Technology Review--5foqno",
-      "title": "The Download: testing six tech promises and biotech’s blind spots",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-23T12:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips?",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
-    },
-    {
-      "id": "TechCrunch AI-aibb3j",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-23T04:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. 这篇内容重点围绕“Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-    },
-    {
-      "id": "TechCrunch AI-l71vi8",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-23T00:45:37.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs. 这篇内容重点围绕“Left alone with nothing to do, AI agents started playing”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
     }
   ]
 }
