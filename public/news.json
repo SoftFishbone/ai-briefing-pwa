@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-01T05:22:41.025Z",
+  "updatedAt": "2026-11-02T05:21:05.909Z",
   "items": [
+    {
+      "id": "TechCrunch AI--xxuei6",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+    },
+    {
+      "id": "TechCrunch AI-sm94i1",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“AI can make tech CEOs’ lives easier. What about everyone else?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+    },
     {
       "id": "TechCrunch AI-czcine",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -284,34 +312,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
-    },
-    {
-      "id": "TechCrunch AI--lvt994",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-    },
-    {
-      "id": "TechCrunch AI--f6cei4",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-29T20:08:31.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business. 这篇内容重点围绕“As search traffic dries up, Reddit announces it’s shifting to a logged-in experience”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
     },
     {
       "id": "Hugging Face-msrk43",
