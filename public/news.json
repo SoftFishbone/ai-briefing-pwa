@@ -1,6 +1,232 @@
 {
-  "updatedAt": "2026-11-03T06:00:22.494Z",
+  "updatedAt": "2026-11-04T05:39:59.934Z",
   "items": [
+    {
+      "id": "TechCrunch AI-txxkdc",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from. 这篇内容重点围绕“Anthropic is working on a system to prove AI models’ identity”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+    },
+    {
+      "id": "TechCrunch AI--49zcc5",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T22:19:53.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines. 这篇内容重点围绕“Data centers are turning to old jet engines as the wait for power grows”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+    },
+    {
+      "id": "TechCrunch AI-i6t7w2",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T21:43:08.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle. 这篇内容重点围绕“Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+    },
+    {
+      "id": "TechCrunch AI-fe9e2t",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T21:05:55.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+    },
+    {
+      "id": "TechCrunch AI--vrnj70",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T19:34:43.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“AI inference startup Fal doubles its valuation to $16B as demand surges”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+    },
+    {
+      "id": "TechCrunch AI--3lf01m",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T18:42:16.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for. 这篇内容重点围绕“Netflix’s new AI Discover tab helps you find something to watch based on your mood”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    },
+    {
+      "id": "Hugging Face--276us4",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-03T17:15:21.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“StateBench: Testing how language models track state changes over long documents”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/allenai/statebench"
+    },
+    {
+      "id": "TechCrunch AI-ig6luz",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T17:07:01.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse. 这篇内容重点围绕“Anthropic is still grappling with the economics of compute”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+    },
+    {
+      "id": "Hugging Face--gw5bxg",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-03T16:35:36.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Palette: teaching a small model to build decks in your design language”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+    },
+    {
+      "id": "TechCrunch AI--qu7x3i",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T16:30:34.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine. 这篇内容重点围绕“Google will let schools disable its AI tools, but not without sacrificing Search”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    },
+    {
+      "id": "TechCrunch AI-o9jgia",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T15:38:27.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content. 这篇内容重点围绕“Apple restricts dating apps and AI companions to users 18 and up”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+    },
+    {
+      "id": "TechCrunch AI--1yhxdz",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"
+    },
+    {
+      "id": "TechCrunch AI-spm0r0",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. Save up to $100 on your pass, and get a second for free.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"
+    },
+    {
+      "id": "MIT Technology Review-lokamp",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-03T13:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. While game theory predicts how rational actors behave under particular rules, reverse game theory designs rules to elicit the behavior we want.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+    },
+    {
+      "id": "MIT Technology Review-y5igzb",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law, hack into unauthorized servers, or release poison gas into major cities and kill us all. Until now, this work has mostly focused on trying to peer into an AI’s “brain” to understand what it is “thinking,” or training models to hew to values that we hold dear.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+    },
+    {
+      "id": "TechCrunch AI--8gfyvd",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T07:20:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations. 这篇内容重点围绕“Apple Watch’s AI features for rewinding and recapping conversations begin beta testing”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+    },
     {
       "id": "MIT Technology Review-dzey9w",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -59,6 +285,34 @@
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
     },
     {
+      "id": "Hugging Face--j2yg1x",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“CWE-bench v2: More coverage, quality, and transparency”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/cwe-bench"
+    },
+    {
+      "id": "Hugging Face--f6xyrs",
+      "title": "Transformers Model Integration Contracts",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Transformers Model Integration Contracts”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/transformers-mic"
+    },
+    {
       "id": "TechCrunch AI-2pr5tc",
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "source": "TechCrunch AI",
@@ -85,262 +339,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
-    },
-    {
-      "id": "TechCrunch AI-y41m2u",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T19:25:59.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization. 这篇内容重点围绕“Web host Squarespace lays off 19% of its employees”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
-    },
-    {
-      "id": "TechCrunch AI--rvosd9",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T19:19:17.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity. 这篇内容重点围绕“New York Times and other outlets sue web browser Brave over alleged content scraping”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
-    },
-    {
-      "id": "Google AI Blog--ky4ha3",
-      "title": "The latest AI news we announced in October 2026",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-11-02T17:45:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "这条资讯来自Google AI Blog，主题是“The latest AI news we announced in October 2026”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
-    },
-    {
-      "id": "MIT Technology Review--21j09f",
-      "title": "Raising the quality of insights in agentic analytics",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate leaves much to be desired.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
-    },
-    {
-      "id": "TechCrunch AI-vcwd6w",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T16:30:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation? 这篇内容重点围绕“42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
-    },
-    {
-      "id": "TechCrunch AI--s3qcf1",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T16:23:21.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\" 这篇内容重点围绕“Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
-    },
-    {
-      "id": "TechCrunch AI-sdso8a",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T15:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal. 这篇内容重点围绕“Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
-    },
-    {
-      "id": "TechCrunch AI-16qw7m",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
-    },
-    {
-      "id": "TechCrunch AI--va9wn5",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T13:57:53.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. 这篇内容重点围绕“OpenAI is finally merging ChatGPT’s Chat and Work tabs”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-    },
-    {
-      "id": "MIT Technology Review-4pyep9",
-      "title": "Stop counting tokens, start counting what ships",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-02T13:10:32.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-    },
-    {
-      "id": "MIT Technology Review-b5q3me",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-02T13:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our every need, without requiring us to muck about with browsers and search engines ourselves. At the time, the idea seemed far-fetched.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
-    },
-    {
-      "id": "MIT Technology Review-38b6mi",
-      "title": "The agentic web is here",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-02T09:35:19.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web” : an internet designed to be navigated by autonomous software agents that could address our every need, without requiring us to muck about with browsers and search engines ourselves. To illustrate what this might look like, Berners-Lee and his colleagues told a story about a pair of siblings who use their agents to automatically research and book physical therapy appointments for their mother, making sure they would be covered by insurance and fit their busy calendars.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
-    },
-    {
-      "id": "TechCrunch AI--xxuei6",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-01T21:55:23.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-    },
-    {
-      "id": "TechCrunch AI-sm94i1",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-01T20:57:58.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“AI can make tech CEOs’ lives easier. What about everyone else?”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
-    },
-    {
-      "id": "TechCrunch AI-8tyunj",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-01T02:22:10.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers. 这篇内容重点围绕“Data centers are now a midterm issue, even in Brooklyn”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
-    },
-    {
-      "id": "TechCrunch AI-czcine",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-31T21:41:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-    },
-    {
-      "id": "TechCrunch AI-9octkj",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-31T21:36:07.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-    },
-    {
-      "id": "TechCrunch AI-q4no07",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-31T21:17:03.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act. 这篇内容重点围绕“Judge allows NAACP lawsuit over xAI data center pollution to move forward”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
     }
   ]
 }
