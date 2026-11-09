@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-08T05:25:16.351Z",
+  "updatedAt": "2026-11-09T05:36:31.367Z",
   "items": [
+    {
+      "id": "TechCrunch AI-dudrm2",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T05:26:29.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO. 这篇内容重点围绕“Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50””展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+    },
+    {
+      "id": "TechCrunch AI--87z1hd",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
     {
       "id": "TechCrunch AI--b5u5t4",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -312,34 +340,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-    },
-    {
-      "id": "TechCrunch AI-hb8c3i",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-05T18:02:27.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads. 这篇内容重点围绕“OpenAI president Greg Brockman says company could be IPO ready in 2027”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
-    },
-    {
-      "id": "TechCrunch AI--9vrf9",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. 这篇内容重点围绕“Claude can now analyze your spending with its new Personal Finance tool”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
     }
   ]
 }
