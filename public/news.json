@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-14T05:45:04.078Z",
+  "updatedAt": "2026-11-15T05:44:57.065Z",
   "items": [
+    {
+      "id": "TechCrunch AI--wtek1v",
+      "title": "Where was Nvidia’s security team?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch. 这篇内容重点围绕“Where was Nvidia’s security team?”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "id": "TechCrunch AI-byiec9",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon. 这篇内容重点围绕“Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "id": "TechCrunch AI-tu6ogy",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations. 这篇内容重点围绕“The AI graveyard: a running list of projects and startups that didn’t make it”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "id": "TechCrunch AI-qzgaxs",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14T16:34:15.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations. 这篇内容重点围绕“Asian governments react to Nvidia CEO Jensen Huang’s exit”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
     {
       "id": "TechCrunch AI-dv106k",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -282,63 +338,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
-    },
-    {
-      "id": "TechCrunch AI-ol3de",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T19:11:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results. 这篇内容重点围绕“Nectar launches an AI agent to automate creator discovery and outreach for brands”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
-    },
-    {
-      "id": "Hugging Face--kig8pk",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-12T19:07:35.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
-    },
-    {
-      "id": "TechCrunch AI--tbwk47",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition. 这篇内容重点围绕“Jensen Huang’s exit puts Nvidia’s support for open source in question”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它说明模型能力正在向更低成本、更容易部署的方向扩散。除了调用模型，还值得学习模型评测、量化、推理速度和部署环境，这些是把 Demo 做成产品时会遇到的实际问题。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
-    },
-    {
-      "id": "Google AI Blog-2papnd",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-11-12T18:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses. 这篇内容重点围绕“Google Search gets a major upgrade with Gemini 4 Hydrogen”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
     }
   ]
 }
