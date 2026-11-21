@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-20T06:36:48.892Z",
+  "updatedAt": "2026-11-21T06:29:04.436Z",
   "items": [
+    {
+      "id": "TechCrunch AI-gxxbv1",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "id": "TechCrunch AI--xh672v",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. 这篇内容重点围绕“AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "id": "MIT Technology Review-trlq9o",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-20T18:15:15.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely shared— and widely misinterpreted , owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+      "id": "TechCrunch AI--xo185l",
+      "title": "Chips can survive the space environment — can their financing?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T17:40:01.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "id": "TechCrunch AI-dn4mmd",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T14:55:44.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    },
+    {
+      "id": "TechCrunch AI-177wm4",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace. 这篇内容重点围绕“Six AI-powered gadgets that could make your home office smarter”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    },
+    {
+      "id": "MIT Technology Review--fpg4jd",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-20T13:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death. In their quest for cognitive immortality, these “mind savers” are exploring everything from head transplants and brain freezing to conscious software avatars.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+    },
     {
       "id": "TechCrunch AI--9q7xi5",
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -29,6 +129,34 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    },
+    {
+      "id": "Hugging Face-8f0bx",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/inkling2mini"
+    },
+    {
+      "id": "Hugging Face-lmo3wx",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
     },
     {
       "id": "TechCrunch AI--f0onjp",
@@ -216,133 +344,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
-    },
-    {
-      "id": "MIT Technology Review--dpmb7c",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-19T13:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body for seven weeks, smashing the previous record of about two weeks. They achieved the feat by connecting a donated liver to a system of automated pumps and sensors that fed the organ nutrients, supplied it with blood, and whisked away waste.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
-    },
-    {
-      "id": "MIT Technology Review--f7w9ho",
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a system of automated pumps and sensors that fed the organ nutrients, supplied it with blood, and whisked away waste. In an interview, Pulitano, a transplant surgeon at the Royal Prince Alfred Hospital and a professor at the University of Sydney, likened the life support system to “an artificial body.” Its official name is the Extended Organ Perfusion System.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
-    },
-    {
-      "id": "MIT Technology Review-thif7y",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-19T11:00:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than $1 billion over time.",
-      "whyItMatters": "这条来自MIT Technology Review的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "行业观察"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
-    },
-    {
-      "id": "TechCrunch AI-96ee29",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T00:42:56.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
-    },
-    {
-      "id": "TechCrunch AI--2hlpq6",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T23:45:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world. 这篇内容重点围绕“Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
-    },
-    {
-      "id": "TechCrunch AI-lmobal",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T23:25:17.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
-    },
-    {
-      "id": "TechCrunch AI-9fapmk",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T23:17:28.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO. 这篇内容重点围绕“Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
-    },
-    {
-      "id": "TechCrunch AI-wolu0q",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T22:58:11.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers. 这篇内容重点围绕“Satya Nadella predicts AI agents will reshuffle the economics of the web”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
-    },
-    {
-      "id": "TechCrunch AI-sighjm",
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T22:11:15.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis. 这篇内容重点围绕“Anthropic prices IPO at $83 a share, above projected range”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
     }
   ]
 }
