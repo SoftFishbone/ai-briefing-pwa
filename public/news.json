@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-11-21T06:29:04.436Z",
+  "updatedAt": "2026-11-22T05:57:47.934Z",
   "items": [
+    {
+      "id": "TechCrunch AI--pqibmy",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps. 这篇内容重点围绕“Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "id": "TechCrunch AI-glj9km",
+      "title": "A tale of two Nvidias",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    },
+    {
+      "id": "TechCrunch AI-qctlua",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. 这篇内容重点围绕“Here are the top AI agents that can live in your text messages”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "id": "TechCrunch AI--dfrs0e",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
     {
       "id": "TechCrunch AI-gxxbv1",
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -287,63 +344,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-    },
-    {
-      "id": "TechCrunch AI-96tnv9",
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T16:59:23.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised. 这篇内容重点围绕“Anthropic hits Nasdaq exchanges at $111, 33% above IPO price”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-    },
-    {
-      "id": "TechCrunch AI-sj8slm",
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T16:19:41.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure. 这篇内容重点围绕“At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-    },
-    {
-      "id": "TechCrunch AI--1sa6l5",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T14:54:39.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead. 这篇内容重点围绕“Anthropic’s IPO puts AI’s circular financing boom to the test”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
-    },
-    {
-      "id": "TechCrunch AI-tuhgdg",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail. 这篇内容重点围绕“Superhuman pushes its Go assistant everywhere”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
     }
   ]
 }
