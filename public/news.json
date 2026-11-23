@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-22T05:57:47.934Z",
+  "updatedAt": "2026-11-23T06:49:33.475Z",
   "items": [
+    {
+      "id": "TechCrunch AI-hil3it",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic. 这篇内容重点围绕“How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
+      "id": "TechCrunch AI-6frip1",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed. 这篇内容重点围绕“OpenAI’s chief scientist has thoughts on how to limit AI development”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "id": "TechCrunch AI--d6gq76",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Why data centers are at the center of the Big Tech backlash”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
     {
       "id": "TechCrunch AI--pqibmy",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -301,49 +343,6 @@
         "Agent"
       ],
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-    },
-    {
-      "id": "TechCrunch AI--w6bbta",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T17:38:40.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. 这篇内容重点围绕“Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-    },
-    {
-      "id": "Google AI Blog--qrxv6m",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode. 这篇内容重点围绕“Walter Isaacson on curiosity and creativity in the AI age.”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "研究与产品"
-      ],
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
-    },
-    {
-      "id": "TechCrunch AI-ydaxd3",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers. 这篇内容重点围绕“Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
     }
   ]
 }
