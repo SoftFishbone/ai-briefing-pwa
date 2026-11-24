@@ -1,6 +1,246 @@
 {
-  "updatedAt": "2026-11-23T06:49:33.475Z",
+  "updatedAt": "2026-11-24T09:15:59.172Z",
   "items": [
+    {
+      "id": "TechCrunch AI--oaw6sv",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals. 这篇内容重点围绕“Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "id": "TechCrunch AI--axjtav",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "公司与产品",
+        "Agent"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+    },
+    {
+      "id": "TechCrunch AI-vm5n0n",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T21:47:41.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+    },
+    {
+      "id": "TechCrunch AI--37bysa",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T21:25:42.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+    },
+    {
+      "id": "TechCrunch AI--c8at64",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T20:38:53.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+    },
+    {
+      "id": "TechCrunch AI-8vt8e3",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T19:14:46.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem 这篇内容重点围绕“Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    },
+    {
+      "id": "TechCrunch AI-nsyro2",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T18:12:22.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy. 这篇内容重点围绕“Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    },
+    {
+      "id": "MIT Technology Review--31ct2a",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-23T17:36:08.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing.",
+      "whyItMatters": "AI 产品的竞争已经不只取决于模型效果，也取决于数据来源、隐私、版权和安全边界。提前理解这些限制，有助于你在课程项目和求职作品中做出更可信、可上线的设计。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    },
+    {
+      "id": "Hugging Face--fkxaz7",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“RoboTrack: Point tracking for real-world robotic manipulation”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/allenai/robotrack"
+    },
+    {
+      "id": "TechCrunch AI--uwbyfp",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T17:14:23.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal. 这篇内容重点围绕“Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "id": "Google AI Blog-4chx1m",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "category": "研究与产品",
+      "region": "全球",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode. 这篇内容重点围绕“A more tailored Google Search that’s uniquely yours”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自Google AI Blog的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "研究与产品"
+      ],
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "id": "TechCrunch AI--vpkmml",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T16:57:40.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement. 这篇内容重点围绕“Jensen Huang isn’t out of the woods yet”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+    },
+    {
+      "id": "TechCrunch AI--o0s1gj",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T16:39:10.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC. 这篇内容重点围绕“Trump reportedly called into Nvidia board meeting to advocate for Huang’s return”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    },
+    {
+      "id": "TechCrunch AI--jx9y78",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T15:04:01.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+    },
+    {
+      "id": "TechCrunch AI-5dv0r4",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T14:43:03.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round. 这篇内容重点围绕“Sierra doubles valuation to $30B within six months as demand for AI in CX takes off”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    },
+    {
+      "id": "TechCrunch AI--hynbbr",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T14:21:59.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "这条资讯来自TechCrunch AI，主题是“Nvidia reverses course and brings Jensen Huang back as CEO”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+    },
+    {
+      "id": "MIT Technology Review-pb4ut6",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-23T13:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good at tasks that require judgment as they are at coding. The report updates METR’s widely shared time horizon plot , which tested models on a large suite of tasks.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+    },
     {
       "id": "TechCrunch AI-hil3it",
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -14,6 +254,21 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
+      "id": "Hugging Face--4hk19x",
+      "title": "How to build and maintain an agentic evaluation",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“How to build and maintain an agentic evaluation”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/agentic-evals"
     },
     {
       "id": "TechCrunch AI-6frip1",
@@ -85,264 +340,6 @@
         "Agent"
       ],
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-    },
-    {
-      "id": "TechCrunch AI--dfrs0e",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-    },
-    {
-      "id": "TechCrunch AI-gxxbv1",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T19:53:41.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
-    },
-    {
-      "id": "TechCrunch AI--xh672v",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T19:32:08.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. 这篇内容重点围绕“AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-    },
-    {
-      "id": "MIT Technology Review-trlq9o",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-20T18:15:15.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely shared— and widely misinterpreted , owing to the complexity of the measures it used. METR evaluated models by having them attempt a large suite of tasks, each of which had also been completed by humans.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-    },
-    {
-      "id": "TechCrunch AI--xo185l",
-      "title": "Chips can survive the space environment — can their financing?",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T17:40:01.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
-    },
-    {
-      "id": "TechCrunch AI-dn4mmd",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T14:55:44.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-    },
-    {
-      "id": "TechCrunch AI-177wm4",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T14:00:00.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace. 这篇内容重点围绕“Six AI-powered gadgets that could make your home office smarter”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
-    },
-    {
-      "id": "MIT Technology Review--fpg4jd",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-20T13:10:00.000Z",
-      "category": "行业观察",
-      "region": "全球",
-      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond death. In their quest for cognitive immortality, these “mind savers” are exploring everything from head transplants and brain freezing to conscious software avatars.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "行业观察",
-        "Agent"
-      ],
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
-    },
-    {
-      "id": "TechCrunch AI--9q7xi5",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T00:56:01.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. 这篇内容重点围绕“Apple may be developing its own AI agent that runs your Mac”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-    },
-    {
-      "id": "TechCrunch AI-dbxgfw",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T00:43:50.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion. 这篇内容重点围绕“Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-    },
-    {
-      "id": "Hugging Face-8f0bx",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/inkling2mini"
-    },
-    {
-      "id": "Hugging Face-lmo3wx",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-20T00:00:00.000Z",
-      "category": "开源",
-      "region": "全球",
-      "summary": "这条资讯来自Hugging Face，主题是“Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "开源"
-      ],
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
-    },
-    {
-      "id": "TechCrunch AI--f0onjp",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T21:58:06.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable. 这篇内容重点围绕“Meta’s new Muse Charm device may cost $300”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-    },
-    {
-      "id": "TechCrunch AI-19knd5",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T21:42:31.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
-    },
-    {
-      "id": "TechCrunch AI--qpeb57",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T20:18:49.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
-      "id": "TechCrunch AI-q1zu4r",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T19:10:45.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion. 这篇内容重点围绕“Anthropic’s IPO could deliver $156B to charity”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-    },
-    {
-      "id": "TechCrunch AI--526pxf",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-19T18:09:11.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows. 这篇内容重点围绕“Google gives Gemini the ability to use your Mac for you”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    },
-    {
-      "id": "Google AI Blog--7u9jnb",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "category": "研究与产品",
-      "region": "全球",
-      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. 这篇内容重点围绕“Introducing Tool Retrieval in the Gemini API”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "研究与产品",
-        "Agent"
-      ],
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
     }
   ]
 }
