@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-26T07:41:48.867Z",
+  "updatedAt": "2026-11-27T07:40:47.620Z",
   "items": [
+    {
+      "id": "TechCrunch AI-6iyrie",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "id": "TechCrunch AI--hlk8gk",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "category": "公司与产品",
+      "region": "全球",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time. 这篇内容重点围绕“Grand Theft Auto VI proves why efficiency isn’t a virtue”展开，建议结合原文中的背景、数据和限制条件理解。",
+      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "公司与产品"
+      ],
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "id": "MIT Technology Review--w0v6ke",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-26T13:10:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics.",
+      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
+      "keywords": [
+        "行业观察"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+    },
+    {
+      "id": "Hugging Face-c3mbir",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
     {
       "id": "Hugging Face-ml1stt",
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -14,6 +70,21 @@
         "开源"
       ],
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    },
+    {
+      "id": "Hugging Face-i1rvs5",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "开源",
+        "Agent"
+      ],
+      "url": "https://huggingface.co/blog/training-swarms"
     },
     {
       "id": "TechCrunch AI-jpy4sr",
@@ -270,78 +341,6 @@
         "公司与产品"
       ],
       "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
-    },
-    {
-      "id": "TechCrunch AI--r97d3x",
-      "title": "Even the best AI agents struggle with everyday life",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T21:33:29.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems. 这篇内容重点围绕“Even the best AI agents struggle with everyday life”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
-    },
-    {
-      "id": "TechCrunch AI-rumtk2",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T21:32:38.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent. 这篇内容重点围绕“Walmart teams up with Meta to bring Black Friday deals to AI agent Muse”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
-      "keywords": [
-        "公司与产品",
-        "Agent"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
-    },
-    {
-      "id": "TechCrunch AI-g4tcuk",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T21:19:52.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data. 这篇内容重点围绕“Maple raises $5.3M to build AI products that protect your data, even from itself”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
-    },
-    {
-      "id": "TechCrunch AI--mply6t",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T18:30:42.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "这条资讯来自TechCrunch AI，主题是“Anthropic shares fall below IPO price, a worrying sign for AI startups”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
-      "whyItMatters": "公司和资本的变化可以帮助判断 AI 产业的真实需求，而不只是看模型发布的热度。阅读时应关注收入来源、客户场景、技术壁垒和竞争对手，这些也是理解行业与准备面试的重要线索。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-    },
-    {
-      "id": "TechCrunch AI-n1d15u",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T18:02:59.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws. 这篇内容重点围绕“UK warns AI-driven cyberattacks are exposing years of weak security”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
     }
   ]
 }
