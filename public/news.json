@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-11-27T07:40:47.620Z",
+  "updatedAt": "2026-11-28T07:08:14.026Z",
   "items": [
+    {
+      "id": "MIT Technology Review--gsh4qa",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-27T13:00:00.000Z",
+      "category": "行业观察",
+      "region": "全球",
+      "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list. And starting today, our 2027 competition is officially open for nominations.",
+      "whyItMatters": "它反映出 AI 应用正在从单轮问答走向多步骤执行。对学生来说，值得重点理解任务拆解、工具调用、权限控制和结果验证，这些能力会直接影响 Agent 产品能否真正落地。",
+      "keywords": [
+        "行业观察",
+        "Agent"
+      ],
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
+    },
+    {
+      "id": "Hugging Face-kqual7",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "category": "开源",
+      "region": "全球",
+      "summary": "这条资讯来自Hugging Face，主题是“Taking Trainium3 to the Track: Generating Videos with LTX-2.5”。目前公开摘要信息有限，下面的原文链接是判断细节、数据和适用范围的主要依据。",
+      "whyItMatters": "这条来自Hugging Face的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
+      "keywords": [
+        "开源"
+      ],
+      "url": "https://huggingface.co/blog/video-trainium3"
+    },
     {
       "id": "TechCrunch AI-6iyrie",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -313,34 +342,6 @@
         "开源"
       ],
       "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
-    },
-    {
-      "id": "TechCrunch AI-s82tbe",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T22:27:52.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder. 这篇内容重点围绕“Jensen Huang still thinks a succession plan creates unnecessary hierarchy”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
-    },
-    {
-      "id": "TechCrunch AI-2kzn08",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T21:48:27.000Z",
-      "category": "公司与产品",
-      "region": "全球",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company. 这篇内容重点围绕“In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy”展开，建议结合原文中的背景、数据和限制条件理解。",
-      "whyItMatters": "这条来自TechCrunch AI的更新值得放进行业脉络中观察：它可能影响模型能力、产品形态、开发工具或岗位技能。阅读原文时重点留意具体事实、适用边界和是否存在未经证实的推测。",
-      "keywords": [
-        "公司与产品"
-      ],
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
     }
   ]
 }
